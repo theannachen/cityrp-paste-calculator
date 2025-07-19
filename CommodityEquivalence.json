@@ -1,0 +1,1026 @@
+{
+  "Any Log": {
+    "commodities": [
+        "Spruce Log",
+        "Dark Oak Log",
+        "Oak Log",
+        "Cherry Log",
+        "Pale Oak Log",
+        "Mangrove Log",
+        "Birch Log",
+        "Jungle Log",
+        "Acacia Log"
+      ]
+  },
+  "Any Leaves": {
+    "commodities": [
+        "Oak Leaves",
+        "Pale Oak Leaves",
+        "Mangrove Leaves",
+        "Jungle Leaves",
+        "Birch Leaves",
+        "Spruce Leaves",
+        "Dark Oak Leaves",
+        "Acacia Leaves",
+        "Cherry Leaves"
+      ]
+  },
+  "Any Sapling": {
+    "commodities": [
+        "Jungle Sapling",
+        "Acacia Sapling",
+        "Cherry Sapling",
+        "Oak Sapling",
+        "Dark Oak Sapling",
+        "Spruce Sapling",
+        "Birch Sapling"
+      ]
+  },
+  "Amethyst Cluster": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Any Flower": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Ancient Debris": {
+    "commodities": [
+        "Ancient Debris"
+      ]
+  },
+  "Andesite": {
+    "commodities": [
+        "Andesite"
+      ]
+  },
+  "Anvil": {
+    "commodities": [
+        "Anvil"
+      ]
+  },
+  "Azalea": {
+    "commodities": [
+        "Azalea"
+      ]
+  },
+  "Bamboo": {
+    "commodities": [
+        "Bamboo"
+      ]
+  },
+  "Basalt": {
+    "commodities": [
+        "Basalt"
+      ]
+  },
+  "Beacon": {
+    "commodities": [
+        "Beacon"
+      ]
+  },
+  "Bee Nest": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Beehive": {
+    "commodities": [
+        "Beehive"
+      ]
+  },
+  "Beetroot Seeds": {
+    "commodities": [
+        "Beetroot"
+      ]
+  },
+  "Bell": {
+    "commodities": [
+        "Bell"
+      ]
+  },
+  "Big Dripleaf": {
+    "commodities": [
+        "Big Dripleaf"
+      ]
+  },
+  "Any Wool": {
+    "commodities": [
+        "Black Wool",
+        "Blue Wool",
+        "Cyan Wool",
+        "Gray Wool",
+        "Green Wool",
+        "Light Blue Wool",
+        "Light Gray Wool",
+        "Lime Wool",
+        "Orange Wool",
+        "Pink Wool",
+        "Purple Wool",
+        "Red Wool",
+        "White Wool",
+        "Yellow Wool"
+      ]
+  },
+  "Candle": {
+    "commodities": [
+        "Candle"
+      ]
+  },
+  "Any Concrete/Powder": {
+    "commodities": [
+        "Black Concrete",
+        "Black Concrete Powder",
+        "Blue Concrete",
+        "Brown Concrete",
+        "Brown Concrete Powder",
+        "Cyan Concrete",
+        "Gray Concrete",
+        "Gray Concrete Powder",
+        "Green Concrete",
+        "Green Concrete Powder",
+        "Light Blue Concrete",
+        "Light Gray Concrete",
+        "Light Gray Concrete Powder",
+        "Lime Concrete",
+        "Orange Concrete",
+        "Pink Concrete",
+        "Pink Concrete Powder",
+        "Purple Concrete",
+        "Red Concrete",
+        "Red Concrete Powder",
+        "White Concrete",
+        "White Concrete Powder",
+        "Yellow Concrete"
+      ]
+  },
+  "Any Glazed Terracotta": {
+    "commodities": [
+        "Brown Glazed Terracotta",
+        "Green Glazed Terracotta",
+        "Light Gray Glazed Terracotta",
+        "Orange Glazed Terracotta",
+        "Red Glazed Terracotta",
+        "White Glazed Terracotta",
+        "Yellow Glazed Terracotta"
+      ]
+  },
+  "Shulker Box": {
+    "commodities": [
+        "Shulker Box"
+      ]
+  },
+  "Any Stained Glass": {
+    "commodities": [
+        "Black Stained Glass",
+        "Blue Stained Glass",
+        "Brown Stained Glass",
+        "Cyan Stained Glass",
+        "Gray Stained Glass",
+        "Green Stained Glass",
+        "Light Blue Stained Glass",
+        "Light Gray Stained Glass",
+        "Lime Stained Glass",
+        "Magenta Stained Glass",
+        "Orange Stained Glass",
+        "Pink Stained Glass",
+        "Red Stained Glass",
+        "White Stained Glass",
+        "Yellow Stained Glass"
+      ]
+  },
+  "Any Terracotta": {
+    "commodities": [
+        "Blue Terracotta",
+        "Brown Terracotta",
+        "Cyan Terracotta",
+        "Gray Terracotta",
+        "Light Gray Terracotta",
+        "Magenta Terracotta",
+        "Orange Terracotta",
+        "Red Terracotta",
+        "Terracotta",
+        "White Terracotta",
+        "Yellow Terracotta"
+      ]
+  },
+  "Blackstone": {
+    "commodities": [
+        "Blackstone"
+      ]
+  },
+  "Blast Furnace": {
+    "commodities": [
+        "Blast Furnace"
+      ]
+  },
+  "Amethyst Block": {
+    "commodities": [
+        "Amethyst Block"
+      ]
+  },
+  "Coal": {
+    "commodities": [
+        "Coal"
+      ]
+  },
+  "Copper Ingot": {
+    "commodities": [
+        "Copper Ingot"
+      ]
+  },
+  "Diamond": {
+    "commodities": [
+        "Diamond"
+      ]
+  },
+  "Emerald": {
+    "commodities": [
+        "Emerald"
+      ]
+  },
+  "Gold Ingot": {
+    "commodities": [
+        "Gold Ingot"
+      ]
+  },
+  "Iron Ingot": {
+    "commodities": [
+        "Iron Ingot"
+      ]
+  },
+  "Lapis Lazuli": {
+    "commodities": [
+        "Lapis Lazuli"
+      ]
+  },
+  "Netherite Ingot": {
+    "commodities": [
+        "Netherite Ingot"
+      ]
+  },
+  "Quartz Block": {
+    "commodities": [
+        "Quartz Block"
+      ]
+  },
+  "Raw Copper": {
+    "commodities": [
+        "Raw Copper"
+      ]
+  },
+  "Raw Gold": {
+    "commodities": [
+        "Raw Gold"
+      ]
+  },
+  "Raw Iron": {
+    "commodities": [
+        "Raw Iron"
+      ]
+  },
+  "Redstone": {
+    "commodities": [
+        "Redstone"
+      ]
+  },
+  "Block of Resin": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Ice": {
+    "commodities": [
+        "Ice"
+      ]
+  },
+  "Bone Block": {
+    "commodities": [
+        "Bone Block"
+      ]
+  },
+  "Bookshelf": {
+    "commodities": [
+        "Bookshelf"
+      ]
+  },
+  "Any Coral": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Any Coral Block": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Any Coral Fan": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Brewing Stand": {
+    "commodities": [
+        "Brewing Stand"
+      ]
+  },
+  "Bricks": {
+    "commodities": [
+        "Bricks"
+      ]
+  },
+  "Brown Mushroom": {
+    "commodities": [
+        "Brown Mushroom"
+      ]
+  },
+  "Budding Amethyst": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Cactus": {
+    "commodities": [
+        "Cactus"
+      ]
+  },
+  "Cake": {
+    "commodities": [
+        "Cake"
+      ]
+  },
+  "Calcite": {
+    "commodities": [
+        "Calcite"
+      ]
+  },
+  "Calibrated Sculk Sensor": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Carrot": {
+    "commodities": [
+        "Carrot"
+      ]
+  },
+  "Cartography Table": {
+    "commodities": [
+        "NONE"
+      ]
+  },
+  "Pumpkin": {
+    "commodities": [
+        "Pumpkin"
+      ]
+  },
+  "Glow Berries": {
+    "commodities": [
+        "Glow Berries"
+      ]
+  },
+  "Deepslate": {
+    "commodities": [
+        "Deepslate"
+      ]
+  },
+  "Nether Bricks": {
+    "commodities": [
+      "Nether Bricks"
+    ]
+  },
+  "Red Sandstone": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Resin Bricks": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Sandstone": {
+    "commodities": [
+      "Sandstone"
+    ]
+  },
+  "Stone": {
+    "commodities": [
+      "Stone"
+    ]
+  },
+  "Tuff": {
+    "commodities": [
+      "Tuff"
+    ]
+  },
+  "Chorus Flower": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Clay": {
+    "commodities": [
+      "Clay"
+    ]
+  },
+  "Cobbled Deepslate": {
+    "commodities": [
+      "Cobbled Deepslate"
+    ]
+  },
+  "Cobblestone": {
+    "commodities": [
+      "Cobblestone"
+    ]
+  },
+  "String": {
+    "commodities": [
+      "String"
+    ]
+  },
+  "Cocoa Beans": {
+    "commodities": [
+      "Cocoa Beans"
+    ]
+  },
+  "Crafter": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Creaking Heart": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Crimson Fungus": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Crimson Hyphae": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Crimson Nylium": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Crimson Roots": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Crimson Stem": {
+    "commodities": [
+      "Crimson Stem"
+    ]
+  },
+  "Crying Obsidian": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Dark Prismarine": {
+    "commodities": [
+      "Dark Prismarine"
+    ]
+  },
+  "Daylight Detector": {
+    "commodities": [
+      "Daylight Detector"
+    ]
+  },
+  "Decorated Pot": {
+    "commodities": [
+      "Decorated Pot"
+    ]
+  },
+  "Diorite": {
+    "commodities": [
+      "Diorite"
+    ]
+  },
+  "Dirt": {
+    "commodities": [
+      "Dirt"
+    ]
+  },
+  "Dispenser": {
+    "commodities": [
+      "Dispenser"
+    ]
+  },
+  "Dried Kelp Block": {
+    "commodities": [
+      "Dried Kelp Block"
+    ]
+  },
+  "Dripstone Block": {
+    "commodities": [
+      "Dripstone Block"
+    ]
+  },
+  "Enchanting Table": {
+    "commodities": [
+      "Enchanting Table"
+    ]
+  },
+  "End Rod": {
+    "commodities": [
+      "End Rod"
+    ]
+  },
+  "End Stone": {
+    "commodities": [
+      "End Stone"
+    ]
+  },
+  "Ender Chest": {
+    "commodities": [
+      "Ender Chest"
+    ]
+  },
+  "Flower Pot": {
+    "commodities": [
+      "Flower Pot"
+    ]
+  },
+  "Flowering Azalea": {
+    "commodities": [
+      "Flowering Azalea"
+    ]
+  },
+  "Frogspawn": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Furnace": {
+    "commodities": [
+      "Furnace"
+    ]
+  },
+  "Gilded Blackstone": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Glass": {
+    "commodities": [
+      "Glass"
+    ]
+  },
+  "Glow Lichen": {
+    "commodities": [
+      "Glow Lichen"
+    ]
+  },
+  "Glowstone": {
+    "commodities": [
+      "Glowstone"
+    ]
+  },
+  "Granite": {
+    "commodities": [
+      "Granite"
+    ]
+  },
+  "Grass Block": {
+    "commodities": [
+      "Grass Block"
+    ]
+  },
+  "Gravel": {
+    "commodities": [
+      "Gravel"
+    ]
+  },
+  "Hay Block": {
+    "commodities": [
+      "Hay Block"
+    ]
+  },
+  "Honey Bottle": {
+    "commodities": [
+      "Honey Bottle"
+    ]
+  },
+  "Honeycomb": {
+    "commodities": [
+      "Honeycomb"
+    ]
+  },
+  "Hopper": {
+    "commodities": [
+      "Hopper"
+    ]
+  },
+  "Ice ": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Jukebox": {
+    "commodities": [
+      "Jukebox"
+    ]
+  },
+  "Kelp": {
+    "commodities": [
+      "Kelp"
+    ]
+  },
+  "Lantern": {
+    "commodities": [
+      "Lantern"
+    ]
+  },
+  "Lava Bucket": {
+    "commodities": [
+      "Lava Bucket"
+    ]
+  },
+  "Lily Pad": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Loom": {
+    "commodities": [
+      "Loom"
+    ]
+  },
+  "Magma Block": {
+    "commodities": [
+      "Magma Block"
+    ]
+  },
+  "Mangrove Propagule": {
+    "commodities": [
+      "Mangrove Propagule"
+    ]
+  },
+  "Mangrove Roots": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Melon Slice": {
+    "commodities": [
+      "Melon Slice"
+    ]
+  },
+  "Moss Block": {
+    "commodities": [
+      "Moss Block"
+    ]
+  },
+  "Mossy Cobblestone": {
+    "commodities": [
+      "Mossy Cobblestone"
+    ]
+  },
+  "Mossy Stone": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Mud": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Mushroom Stem": {
+    "commodities": [
+      "Mushroom Stem"
+    ]
+  },
+  "Mycelium": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Netherrack": {
+    "commodities": [
+      "Netherrack"
+    ]
+  },
+  "Nether Wart": {
+    "commodities": [
+      "Nether Wart"
+    ]
+  },
+  "Note Block": {
+    "commodities": [
+      "Note Block"
+    ]
+  },
+  "Observer": {
+    "commodities": [
+      "Observer"
+    ]
+  },
+  "Obsidian": {
+    "commodities": [
+      "Obsidian"
+    ]
+  },
+  "Any Froglight": {
+    "commodities": [
+        "Ochre Froglight",
+        "Pearlescent Froglight",
+        "Verdant Froglight"
+      ]
+  },
+  "Pale Moss Block": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Piston": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Podzol": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Pointed Dripstone": {
+    "commodities": [
+      "Pointed Dripstone"
+    ]
+  },
+  "Potato": {
+    "commodities": [
+      "Potato"
+    ]
+  },
+  "Powder Snow": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Prismarine": {
+    "commodities": [
+      "Prismarine"
+    ]
+  },
+  "Prismarine Bricks": {
+    "commodities": [
+      "Prismarine Bricks"
+    ]
+  },
+  "Prismarine ": {
+    "commodities": [
+      "Prismarine"
+    ]
+  },
+  "Purpur Block": {
+    "commodities": [
+      "Purpur Block"
+    ]
+  },
+  "Red Mushroom": {
+    "commodities": [
+      "Red Mushroom"
+    ]
+  },
+  "Red Sand": {
+    "commodities": [
+      "Red Sand"
+    ]
+  },
+  "Reisin Block": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Resin Clump": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Rooted Dirt": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Sand": {
+    "commodities": [
+      "Sand"
+    ]
+  },
+  "Scaffolding": {
+    "commodities": [
+      "Scaffolding"
+    ]
+  },
+  "Sculk": {
+    "commodities": [
+      "Sculk"
+    ]
+  },
+  "Sculk Catalyst": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Sculk Sensor": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Sculk Shrieker": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Sculk Vein": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Sea Lantern": {
+    "commodities": [
+      "Sea Lantern"
+    ]
+  },
+  "Sea Pickle": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Shroomlight": {
+    "commodities": [
+      "Shroomlight"
+    ]
+  },
+  "Slime Ball": {
+    "commodities": [
+      "Slime Ball"
+    ]
+  },
+  "Smoker": {
+    "commodities": [
+      "Smoker"
+    ]
+  },
+  "Smooth Stone": {
+    "commodities": [
+      "Smooth Stone"
+    ]
+  },
+  "Sniffer Egg": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Snow Block": {
+    "commodities": [
+      "Snow Block"
+    ]
+  },
+  "Soul Campfire": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Soul Lantern": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Soul Sand": {
+    "commodities": [
+      "Soul Sand"
+    ]
+  },
+  "Soul Soil": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Soul Torch": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Sponge": {
+    "commodities": [
+      "Sponge"
+    ]
+  },
+  "Spore Blossom": {
+    "commodities": [
+      "Spore Blossom"
+    ]
+  },
+  "Sticky Piston": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Warped Stem": {
+    "commodities": [
+      "Warped Stem"
+    ]
+  },
+  "Sugar Cane": {
+    "commodities": [
+      "Sugar Cane"
+    ]
+  },
+  "Sweet Berries": {
+    "commodities": [
+      "Sweet Berries"
+    ]
+  },
+  "Tinted Glass": {
+    "commodities": [
+      "Tinted Glass"
+    ]
+  },
+  "TNT": {
+    "commodities": [
+      "Tnt"
+    ]
+  },
+  "Torch": {
+    "commodities": [
+      "Torch"
+    ]
+  },
+  "Tripwire Hook": {
+    "commodities": [
+      "Tripwire Hook"
+    ]
+  },
+  "Turtle Egg": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Twisting Vines": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Vine": {
+    "commodities": [
+      "Vine"
+    ]
+  },
+  "Warped Fungus": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Warped Nylium": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Warped Roots": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Warped Wart Block": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Water bucket": {
+    "commodities": [
+      "Water Bucket"
+    ]
+  },
+  "Weeping Vines": {
+    "commodities": [
+      "NONE"
+    ]
+  },
+  "Wheat Seeds": {
+    "commodities": [
+      "Wheat Seeds"
+    ]
+  },
+  "Blaze Rod": {
+    "commodities": [
+      "Blaze Rod"
+    ]
+  },
+  "Wither Rose": {
+    "commodities": [
+      "Wither Rose"
+    ]
+  }
+}

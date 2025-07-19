@@ -1,0 +1,2204 @@
+{
+  "Any Log": {
+    "commodities": [
+      {
+        "Spruce Log": {
+          "volumeBought": 7011,
+          "currentBuyPrice": 0.3142396763392853
+        }
+      },
+      {
+        "Dark Oak Log": {
+          "volumeBought": 3840,
+          "currentBuyPrice": 0.613422706422018
+        }
+      },
+      {
+        "Oak Log": {
+          "volumeBought": 5803,
+          "currentBuyPrice": 0.3415535194174757
+        }
+      },
+      {
+        "Cherry Log": {
+          "volumeBought": 3440,
+          "currentBuyPrice": 1.767219551282054
+        }
+      },
+      {
+        "Pale Oak Log": {
+          "volumeBought": 2205,
+          "currentBuyPrice": 0.29911065573770457
+        }
+      },
+      {
+        "Mangrove Log": {
+          "volumeBought": 1242,
+          "currentBuyPrice": 0.309263392857143
+        }
+      },
+      {
+        "Birch Log": {
+          "volumeBought": 5061,
+          "currentBuyPrice": 0.29066215034965
+        }
+      },
+      {
+        "Jungle Log": {
+          "volumeBought": 544,
+          "currentBuyPrice": 0.3663692307692309
+        }
+      },
+      {
+        "Acacia Log": {
+          "volumeBought": 1083,
+          "currentBuyPrice": 0.3860352272727274
+        }
+      }
+    ],
+    "price": 0.5208751233830321
+  },
+  "Any Leaves": {
+    "commodities": [
+      {
+        "Oak Leaves": {
+          "volumeBought": 1172,
+          "currentBuyPrice": 0.599969512195122
+        }
+      },
+      {
+        "Pale Oak Leaves": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Mangrove Leaves": {
+          "volumeBought": 128,
+          "currentBuyPrice": 0.153125
+        }
+      },
+      {
+        "Jungle Leaves": {
+          "volumeBought": 12,
+          "currentBuyPrice": 0.154375
+        }
+      },
+      {
+        "Birch Leaves": {
+          "volumeBought": 128,
+          "currentBuyPrice": 0.153125
+        }
+      },
+      {
+        "Spruce Leaves": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Dark Oak Leaves": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.153125
+        }
+      },
+      {
+        "Acacia Leaves": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.153125
+        }
+      },
+      {
+        "Cherry Leaves": {
+          "volumeBought": 448,
+          "currentBuyPrice": 0.15312499999999998
+        }
+      }
+    ],
+    "price": 0.2171385017421603
+  },
+  "Any Sapling": {
+    "commodities": [
+      {
+        "Jungle Sapling": {
+          "volumeBought": 1,
+          "currentBuyPrice": 1.9600000000000004
+        }
+      },
+      {
+        "Acacia Sapling": {
+          "volumeBought": 1,
+          "currentBuyPrice": 1.96
+        }
+      },
+      {
+        "Cherry Sapling": {
+          "volumeBought": 67,
+          "currentBuyPrice": 1.9600000000000004
+        }
+      },
+      {
+        "Oak Sapling": {
+          "volumeBought": 1,
+          "currentBuyPrice": 1.96
+        }
+      },
+      {
+        "Dark Oak Sapling": {
+          "volumeBought": 8,
+          "currentBuyPrice": 1.9600000000000004
+        }
+      },
+      {
+        "Spruce Sapling": {
+          "volumeBought": 6,
+          "currentBuyPrice": 1.9600000000000004
+        }
+      },
+      {
+        "Birch Sapling": {
+          "volumeBought": 2,
+          "currentBuyPrice": 1.96
+        }
+      }
+    ],
+    "price": 1.9600000000000004
+  },
+  "Amethyst Cluster": {
+    "commodities": [],
+    "price": 0
+  },
+  "Any Flower": {
+    "commodities": [],
+    "price": 0
+  },
+  "Ancient Debris": {
+    "commodities": [
+      {
+        "Ancient Debris": {
+          "volumeBought": 1734,
+          "currentBuyPrice": 5.1670185185185025
+        }
+      }
+    ],
+    "price": 5.1670185185185025
+  },
+  "Andesite": {
+    "commodities": [
+      {
+        "Andesite": {
+          "volumeBought": 3646,
+          "currentBuyPrice": 0.2343738584474888
+        }
+      }
+    ],
+    "price": 0.2343738584474888
+  },
+  "Anvil": {
+    "commodities": [
+      {
+        "Anvil": {
+          "volumeBought": 15,
+          "currentBuyPrice": 23.200000000000003
+        }
+      }
+    ],
+    "price": 23.200000000000003
+  },
+  "Azalea": {
+    "commodities": [
+      {
+        "Azalea": {
+          "volumeBought": 60,
+          "currentBuyPrice": 0.8575000000000002
+        }
+      }
+    ],
+    "price": 0.8575000000000002
+  },
+  "Bamboo": {
+    "commodities": [
+      {
+        "Bamboo": {
+          "volumeBought": 2882,
+          "currentBuyPrice": 0.2776249999999999
+        }
+      }
+    ],
+    "price": 0.2776249999999999
+  },
+  "Basalt": {
+    "commodities": [
+      {
+        "Basalt": {
+          "volumeBought": 4486,
+          "currentBuyPrice": 3.0798713235294164
+        }
+      }
+    ],
+    "price": 3.0798713235294164
+  },
+  "Beacon": {
+    "commodities": [
+      {
+        "Beacon": {
+          "volumeBought": 1,
+          "currentBuyPrice": 4900
+        }
+      }
+    ],
+    "price": 4900
+  },
+  "Bee Nest": {
+    "commodities": [],
+    "price": 0
+  },
+  "Beehive": {
+    "commodities": [
+      {
+        "Beehive": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Beetroot Seeds": {
+    "commodities": [
+      {
+        "Beetroot": {
+          "volumeBought": 9,
+          "currentBuyPrice": 0.19599999999999998
+        }
+      }
+    ],
+    "price": 0.19599999999999998
+  },
+  "Bell": {
+    "commodities": [
+      {
+        "Bell": {
+          "volumeBought": 9,
+          "currentBuyPrice": 49
+        }
+      }
+    ],
+    "price": 49
+  },
+  "Big Dripleaf": {
+    "commodities": [
+      {
+        "Big Dripleaf": {
+          "volumeBought": 49,
+          "currentBuyPrice": 8.427999999999999
+        }
+      }
+    ],
+    "price": 8.427999999999999
+  },
+  "Any Wool": {
+    "commodities": [
+      {
+        "Black Wool": {
+          "volumeBought": 64,
+          "currentBuyPrice": 2.94
+        }
+      },
+      {
+        "Blue Wool": {
+          "volumeBought": 64,
+          "currentBuyPrice": 2.94
+        }
+      },
+      {
+        "Cyan Wool": {
+          "volumeBought": 16,
+          "currentBuyPrice": 2.939999999999999
+        }
+      },
+      {
+        "Gray Wool": {
+          "volumeBought": 96,
+          "currentBuyPrice": 2.9399999999999986
+        }
+      },
+      {
+        "Green Wool": {
+          "volumeBought": 64,
+          "currentBuyPrice": 2.94
+        }
+      },
+      {
+        "Light Blue Wool": {
+          "volumeBought": 64,
+          "currentBuyPrice": 2.939999999999998
+        }
+      },
+      {
+        "Light Gray Wool": {
+          "volumeBought": 82,
+          "currentBuyPrice": 2.939999999999999
+        }
+      },
+      {
+        "Lime Wool": {
+          "volumeBought": 64,
+          "currentBuyPrice": 2.94
+        }
+      },
+      {
+        "Orange Wool": {
+          "volumeBought": 64,
+          "currentBuyPrice": 2.94
+        }
+      },
+      {
+        "Pink Wool": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Purple Wool": {
+          "volumeBought": 0,
+          "currentBuyPrice": 2.94
+        }
+      },
+      {
+        "Red Wool": {
+          "volumeBought": 0,
+          "currentBuyPrice": 2.9400000000000004
+        }
+      },
+      {
+        "White Wool": {
+          "volumeBought": 240,
+          "currentBuyPrice": 1.5141
+        }
+      },
+      {
+        "Yellow Wool": {
+          "volumeBought": 64,
+          "currentBuyPrice": 2.94
+        }
+      }
+    ],
+    "price": 2.830315384615384
+  },
+  "Candle": {
+    "commodities": [
+      {
+        "Candle": {
+          "volumeBought": 0,
+          "currentBuyPrice": 3.675
+        }
+      }
+    ],
+    "price": 3.675
+  },
+  "Any Concrete/Powder": {
+    "commodities": [
+      {
+        "Black Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.459375
+        }
+      },
+      {
+        "Black Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.3521875
+        }
+      },
+      {
+        "Blue Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.49
+        }
+      },
+      {
+        "Brown Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.459375
+        }
+      },
+      {
+        "Brown Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.3521875
+        }
+      },
+      {
+        "Cyan Concrete": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Gray Concrete": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.4287500000000001
+        }
+      },
+      {
+        "Gray Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Green Concrete": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.459375
+        }
+      },
+      {
+        "Green Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.3521875
+        }
+      },
+      {
+        "Light Blue Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.49
+        }
+      },
+      {
+        "Light Gray Concrete": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.42875
+        }
+      },
+      {
+        "Light Gray Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Lime Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.49
+        }
+      },
+      {
+        "Orange Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.49
+        }
+      },
+      {
+        "Pink Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.459375
+        }
+      },
+      {
+        "Pink Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Purple Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.49
+        }
+      },
+      {
+        "Red Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.49
+        }
+      },
+      {
+        "Red Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.3521875
+        }
+      },
+      {
+        "White Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.49
+        }
+      },
+      {
+        "White Concrete Powder": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Yellow Concrete": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.4323529411764706
+        }
+      }
+    ],
+    "price": 0.442561274509804
+  },
+  "Any Glazed Terracotta": {
+    "commodities": [
+      {
+        "Brown Glazed Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Green Glazed Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Light Gray Glazed Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Orange Glazed Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Red Glazed Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "White Glazed Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Yellow Glazed Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Shulker Box": {
+    "commodities": [
+      {
+        "Shulker Box": {
+          "volumeBought": 144,
+          "currentBuyPrice": 19.643261802575083
+        }
+      }
+    ],
+    "price": 19.643261802575083
+  },
+  "Any Stained Glass": {
+    "commodities": [
+      {
+        "Black Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.44789062500000004
+        }
+      },
+      {
+        "Blue Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      },
+      {
+        "Brown Stained Glass": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.45937500000000003
+        }
+      },
+      {
+        "Cyan Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      },
+      {
+        "Gray Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.4491666666666667
+        }
+      },
+      {
+        "Green Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      },
+      {
+        "Light Blue Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.42874999999999996
+        }
+      },
+      {
+        "Light Gray Stained Glass": {
+          "volumeBought": 96,
+          "currentBuyPrice": 0.4134375
+        }
+      },
+      {
+        "Lime Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      },
+      {
+        "Magenta Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      },
+      {
+        "Orange Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      },
+      {
+        "Pink Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      },
+      {
+        "Red Stained Glass": {
+          "volumeBought": 88,
+          "currentBuyPrice": 0.4134375
+        }
+      },
+      {
+        "White Stained Glass": {
+          "volumeBought": 38,
+          "currentBuyPrice": 25.250312500000003
+        }
+      },
+      {
+        "Yellow Stained Glass": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.3675
+        }
+      }
+    ],
+    "price": 2.053491319444445
+  },
+  "Any Terracotta": {
+    "commodities": [
+      {
+        "Blue Terracotta": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.5681249999999999
+        }
+      },
+      {
+        "Brown Terracotta": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.6125
+        }
+      },
+      {
+        "Cyan Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Gray Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Light Gray Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.459375
+        }
+      },
+      {
+        "Magenta Terracotta": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      },
+      {
+        "Orange Terracotta": {
+          "volumeBought": 320,
+          "currentBuyPrice": 0.3583125
+        }
+      },
+      {
+        "Red Terracotta": {
+          "volumeBought": 193,
+          "currentBuyPrice": 20.6094375
+        }
+      },
+      {
+        "Terracotta": {
+          "volumeBought": 4386,
+          "currentBuyPrice": 0.505312499999999
+        }
+      },
+      {
+        "White Terracotta": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.765625
+        }
+      },
+      {
+        "Yellow Terracotta": {
+          "volumeBought": 259,
+          "currentBuyPrice": 1.1337946428571428
+        }
+      }
+    ],
+    "price": 3.1265602678571427
+  },
+  "Blackstone": {
+    "commodities": [
+      {
+        "Blackstone": {
+          "volumeBought": 3300,
+          "currentBuyPrice": 0.5451888586956507
+        }
+      }
+    ],
+    "price": 0.5451888586956507
+  },
+  "Blast Furnace": {
+    "commodities": [
+      {
+        "Blast Furnace": {
+          "volumeBought": 1,
+          "currentBuyPrice": 6.37
+        }
+      }
+    ],
+    "price": 6.37
+  },
+  "Amethyst Block": {
+    "commodities": [
+      {
+        "Amethyst Block": {
+          "volumeBought": 1571,
+          "currentBuyPrice": 2.722857142857145
+        }
+      }
+    ],
+    "price": 2.722857142857145
+  },
+  "Coal": {
+    "commodities": [
+      {
+        "Coal": {
+          "volumeBought": 11711,
+          "currentBuyPrice": 0.4350337677725095
+        }
+      }
+    ],
+    "price": 0.4350337677725095
+  },
+  "Copper Ingot": {
+    "commodities": [
+      {
+        "Copper Ingot": {
+          "volumeBought": 7523,
+          "currentBuyPrice": 0.6452972972972986
+        }
+      }
+    ],
+    "price": 0.6452972972972986
+  },
+  "Diamond": {
+    "commodities": [
+      {
+        "Diamond": {
+          "volumeBought": 11089,
+          "currentBuyPrice": 1.4690619266054645
+        }
+      }
+    ],
+    "price": 1.4690619266054645
+  },
+  "Emerald": {
+    "commodities": [
+      {
+        "Emerald": {
+          "volumeBought": 6043,
+          "currentBuyPrice": 1.3646386066763552
+        }
+      }
+    ],
+    "price": 1.3646386066763552
+  },
+  "Gold Ingot": {
+    "commodities": [
+      {
+        "Gold Ingot": {
+          "volumeBought": 7057,
+          "currentBuyPrice": 0.5619001364256525
+        }
+      }
+    ],
+    "price": 0.5619001364256525
+  },
+  "Iron Ingot": {
+    "commodities": [
+      {
+        "Iron Ingot": {
+          "volumeBought": 12236,
+          "currentBuyPrice": 0.8896153265383175
+        }
+      }
+    ],
+    "price": 0.8896153265383175
+  },
+  "Lapis Lazuli": {
+    "commodities": [
+      {
+        "Lapis Lazuli": {
+          "volumeBought": 16780,
+          "currentBuyPrice": 0.5519010189228516
+        }
+      }
+    ],
+    "price": 0.5519010189228516
+  },
+  "Netherite Ingot": {
+    "commodities": [
+      {
+        "Netherite Ingot": {
+          "volumeBought": 3693,
+          "currentBuyPrice": 24.516518324607553
+        }
+      }
+    ],
+    "price": 24.516518324607553
+  },
+  "Quartz Block": {
+    "commodities": [
+      {
+        "Quartz Block": {
+          "volumeBought": 1814,
+          "currentBuyPrice": 1.8931818181818203
+        }
+      }
+    ],
+    "price": 1.8931818181818203
+  },
+  "Raw Copper": {
+    "commodities": [
+      {
+        "Raw Copper": {
+          "volumeBought": 2872,
+          "currentBuyPrice": 0.31940740740740764
+        }
+      }
+    ],
+    "price": 0.31940740740740764
+  },
+  "Raw Gold": {
+    "commodities": [
+      {
+        "Raw Gold": {
+          "volumeBought": 1752,
+          "currentBuyPrice": 0.3062499999999998
+        }
+      }
+    ],
+    "price": 0.3062499999999998
+  },
+  "Raw Iron": {
+    "commodities": [
+      {
+        "Raw Iron": {
+          "volumeBought": 1478,
+          "currentBuyPrice": 0.5560625000000009
+        }
+      }
+    ],
+    "price": 0.5560625000000009
+  },
+  "Redstone": {
+    "commodities": [
+      {
+        "Redstone": {
+          "volumeBought": 6716,
+          "currentBuyPrice": 0.4397073286051986
+        }
+      }
+    ],
+    "price": 0.4397073286051986
+  },
+  "Block of Resin": {
+    "commodities": [],
+    "price": 0
+  },
+  "Ice": {
+    "commodities": [
+      {
+        "Ice": {
+          "volumeBought": 156,
+          "currentBuyPrice": 0.6809090909090911
+        }
+      }
+    ],
+    "price": 0.6809090909090911
+  },
+  "Bone Block": {
+    "commodities": [
+      {
+        "Bone Block": {
+          "volumeBought": 171,
+          "currentBuyPrice": 7.802307692307684
+        }
+      }
+    ],
+    "price": 7.802307692307684
+  },
+  "Bookshelf": {
+    "commodities": [
+      {
+        "Bookshelf": {
+          "volumeBought": 76,
+          "currentBuyPrice": 13.784615384615384
+        }
+      }
+    ],
+    "price": 13.784615384615384
+  },
+  "Any Coral": {
+    "commodities": [],
+    "price": 0
+  },
+  "Any Coral Block": {
+    "commodities": [],
+    "price": 0
+  },
+  "Any Coral Fan": {
+    "commodities": [],
+    "price": 0
+  },
+  "Brewing Stand": {
+    "commodities": [
+      {
+        "Brewing Stand": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Bricks": {
+    "commodities": [
+      {
+        "Bricks": {
+          "volumeBought": 874,
+          "currentBuyPrice": 0.7427349999999998
+        }
+      }
+    ],
+    "price": 0.7427349999999998
+  },
+  "Brown Mushroom": {
+    "commodities": [
+      {
+        "Brown Mushroom": {
+          "volumeBought": 360,
+          "currentBuyPrice": 0.8463636363636364
+        }
+      }
+    ],
+    "price": 0.8463636363636364
+  },
+  "Budding Amethyst": {
+    "commodities": [],
+    "price": 0
+  },
+  "Cactus": {
+    "commodities": [
+      {
+        "Cactus": {
+          "volumeBought": 2351,
+          "currentBuyPrice": 0.47830818965517286
+        }
+      }
+    ],
+    "price": 0.47830818965517286
+  },
+  "Cake": {
+    "commodities": [
+      {
+        "Cake": {
+          "volumeBought": 0,
+          "currentBuyPrice": 8
+        }
+      }
+    ],
+    "price": 8
+  },
+  "Calcite": {
+    "commodities": [
+      {
+        "Calcite": {
+          "volumeBought": 5506,
+          "currentBuyPrice": 0.2478608796296301
+        }
+      }
+    ],
+    "price": 0.2478608796296301
+  },
+  "Calibrated Sculk Sensor": {
+    "commodities": [],
+    "price": 0
+  },
+  "Carrot": {
+    "commodities": [
+      {
+        "Carrot": {
+          "volumeBought": 2704,
+          "currentBuyPrice": 0.7897409539473671
+        }
+      }
+    ],
+    "price": 0.7897409539473671
+  },
+  "Glow Berries": {
+    "commodities": [
+      {
+        "Glow Berries": {
+          "volumeBought": 107,
+          "currentBuyPrice": 0.49
+        }
+      }
+    ],
+    "price": 0.49
+  },
+  "Deepslate": {
+    "commodities": [
+      {
+        "Deepslate": {
+          "volumeBought": 1216,
+          "currentBuyPrice": 0.21054687500000013
+        }
+      }
+    ],
+    "price": 0.21054687500000013
+  },
+  "Nether Bricks": {
+    "commodities": [
+      {
+        "Nether Bricks": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0.18374999999999994
+        }
+      }
+    ],
+    "price": 0.18374999999999994
+  },
+  "Red Sandstone": {
+    "commodities": [],
+    "price": 0
+  },
+  "Resin Bricks": {
+    "commodities": [],
+    "price": 0
+  },
+  "Sandstone": {
+    "commodities": [
+      {
+        "Sandstone": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.459375
+        }
+      }
+    ],
+    "price": 0.459375
+  },
+  "Stone": {
+    "commodities": [
+      {
+        "Stone": {
+          "volumeBought": 1280,
+          "currentBuyPrice": 0.1720833333333338
+        }
+      }
+    ],
+    "price": 0.1720833333333338
+  },
+  "Tuff": {
+    "commodities": [
+      {
+        "Tuff": {
+          "volumeBought": 72,
+          "currentBuyPrice": 0.26201388888888894
+        }
+      }
+    ],
+    "price": 0.26201388888888894
+  },
+  "Chorus Flower": {
+    "commodities": [],
+    "price": 0
+  },
+  "Clay": {
+    "commodities": [
+      {
+        "Clay": {
+          "volumeBought": 6,
+          "currentBuyPrice": 2
+        }
+      }
+    ],
+    "price": 2
+  },
+  "Cobbled Deepslate": {
+    "commodities": [
+      {
+        "Cobbled Deepslate": {
+          "volumeBought": 6136,
+          "currentBuyPrice": 0.21694021739130478
+        }
+      }
+    ],
+    "price": 0.21694021739130478
+  },
+  "Cobblestone": {
+    "commodities": [
+      {
+        "Cobblestone": {
+          "volumeBought": 5170,
+          "currentBuyPrice": 0.1517659482758619
+        }
+      }
+    ],
+    "price": 0.1517659482758619
+  },
+  "String": {
+    "commodities": [
+      {
+        "String": {
+          "volumeBought": 1451,
+          "currentBuyPrice": 1.8032758620689586
+        }
+      }
+    ],
+    "price": 1.8032758620689586
+  },
+  "Cocoa Beans": {
+    "commodities": [
+      {
+        "Cocoa Beans": {
+          "volumeBought": 1161,
+          "currentBuyPrice": 0.36753658536585365
+        }
+      }
+    ],
+    "price": 0.36753658536585365
+  },
+  "Crafter": {
+    "commodities": [],
+    "price": 0
+  },
+  "Creaking Heart": {
+    "commodities": [],
+    "price": 0
+  },
+  "Crimson Fungus": {
+    "commodities": [],
+    "price": 0
+  },
+  "Crimson Hyphae": {
+    "commodities": [],
+    "price": 0
+  },
+  "Crimson Nylium": {
+    "commodities": [],
+    "price": 0
+  },
+  "Crimson Roots": {
+    "commodities": [],
+    "price": 0
+  },
+  "Crimson Stem": {
+    "commodities": [
+      {
+        "Crimson Stem": {
+          "volumeBought": 860,
+          "currentBuyPrice": 0.7542105263157897
+        }
+      }
+    ],
+    "price": 0.7542105263157897
+  },
+  "Crying Obsidian": {
+    "commodities": [],
+    "price": 0
+  },
+  "Dark Prismarine": {
+    "commodities": [
+      {
+        "Dark Prismarine": {
+          "volumeBought": 3230,
+          "currentBuyPrice": 0.5187609649122805
+        }
+      }
+    ],
+    "price": 0.5187609649122805
+  },
+  "Daylight Detector": {
+    "commodities": [
+      {
+        "Daylight Detector": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Decorated Pot": {
+    "commodities": [
+      {
+        "Decorated Pot": {
+          "volumeBought": 8,
+          "currentBuyPrice": 14.699999999999998
+        }
+      }
+    ],
+    "price": 14.699999999999998
+  },
+  "Diorite": {
+    "commodities": [
+      {
+        "Diorite": {
+          "volumeBought": 3719,
+          "currentBuyPrice": 0.1914332482993203
+        }
+      }
+    ],
+    "price": 0.1914332482993203
+  },
+  "Dirt": {
+    "commodities": [
+      {
+        "Dirt": {
+          "volumeBought": 13103,
+          "currentBuyPrice": 0.14137548638132294
+        }
+      }
+    ],
+    "price": 0.14137548638132294
+  },
+  "Dispenser": {
+    "commodities": [
+      {
+        "Dispenser": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Dried Kelp Block": {
+    "commodities": [
+      {
+        "Dried Kelp Block": {
+          "volumeBought": 16,
+          "currentBuyPrice": 0.8374843750000003
+        }
+      }
+    ],
+    "price": 0.8374843750000003
+  },
+  "Dripstone Block": {
+    "commodities": [
+      {
+        "Dripstone Block": {
+          "volumeBought": 776,
+          "currentBuyPrice": 0.6264423076923075
+        }
+      }
+    ],
+    "price": 0.6264423076923075
+  },
+  "Enchanting Table": {
+    "commodities": [
+      {
+        "Enchanting Table": {
+          "volumeBought": 2,
+          "currentBuyPrice": 25
+        }
+      }
+    ],
+    "price": 25
+  },
+  "End Rod": {
+    "commodities": [
+      {
+        "End Rod": {
+          "volumeBought": 141,
+          "currentBuyPrice": 5.579767441860454
+        }
+      }
+    ],
+    "price": 5.579767441860454
+  },
+  "End Stone": {
+    "commodities": [
+      {
+        "End Stone": {
+          "volumeBought": 1171,
+          "currentBuyPrice": 0.44025568181818164
+        }
+      }
+    ],
+    "price": 0.44025568181818164
+  },
+  "Ender Chest": {
+    "commodities": [
+      {
+        "Ender Chest": {
+          "volumeBought": 3,
+          "currentBuyPrice": 24.5
+        }
+      }
+    ],
+    "price": 24.5
+  },
+  "Flower Pot": {
+    "commodities": [
+      {
+        "Flower Pot": {
+          "volumeBought": 37,
+          "currentBuyPrice": 0.5469999999999999
+        }
+      }
+    ],
+    "price": 0.5469999999999999
+  },
+  "Flowering Azalea": {
+    "commodities": [
+      {
+        "Flowering Azalea": {
+          "volumeBought": 90,
+          "currentBuyPrice": 0.49000000000000016
+        }
+      }
+    ],
+    "price": 0.49000000000000016
+  },
+  "Frogspawn": {
+    "commodities": [],
+    "price": 0
+  },
+  "Furnace": {
+    "commodities": [
+      {
+        "Furnace": {
+          "volumeBought": 0,
+          "currentBuyPrice": 19.6
+        }
+      }
+    ],
+    "price": 19.6
+  },
+  "Gilded Blackstone": {
+    "commodities": [],
+    "price": 0
+  },
+  "Glass": {
+    "commodities": [
+      {
+        "Glass": {
+          "volumeBought": 17286,
+          "currentBuyPrice": 0.6711376582278433
+        }
+      }
+    ],
+    "price": 0.6711376582278433
+  },
+  "Glow Lichen": {
+    "commodities": [
+      {
+        "Glow Lichen": {
+          "volumeBought": 40,
+          "currentBuyPrice": 0.2128571428571429
+        }
+      }
+    ],
+    "price": 0.2128571428571429
+  },
+  "Glowstone": {
+    "commodities": [
+      {
+        "Glowstone": {
+          "volumeBought": 570,
+          "currentBuyPrice": 1.4402752293577985
+        }
+      }
+    ],
+    "price": 1.4402752293577985
+  },
+  "Granite": {
+    "commodities": [
+      {
+        "Granite": {
+          "volumeBought": 4391,
+          "currentBuyPrice": 0.29456603773584844
+        }
+      }
+    ],
+    "price": 0.29456603773584844
+  },
+  "Grass Block": {
+    "commodities": [
+      {
+        "Grass Block": {
+          "volumeBought": 9,
+          "currentBuyPrice": 22.663703703703707
+        }
+      }
+    ],
+    "price": 22.663703703703707
+  },
+  "Gravel": {
+    "commodities": [
+      {
+        "Gravel": {
+          "volumeBought": 7102,
+          "currentBuyPrice": 0.18761658767772524
+        }
+      }
+    ],
+    "price": 0.18761658767772524
+  },
+  "Hay Block": {
+    "commodities": [
+      {
+        "Hay Block": {
+          "volumeBought": 960,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Honey Bottle": {
+    "commodities": [
+      {
+        "Honey Bottle": {
+          "volumeBought": 453,
+          "currentBuyPrice": 3.0754846153846156
+        }
+      }
+    ],
+    "price": 3.0754846153846156
+  },
+  "Honeycomb": {
+    "commodities": [
+      {
+        "Honeycomb": {
+          "volumeBought": 623,
+          "currentBuyPrice": 0.6628210784313706
+        }
+      }
+    ],
+    "price": 0.6628210784313706
+  },
+  "Hopper": {
+    "commodities": [
+      {
+        "Hopper": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Ice ": {
+    "commodities": [],
+    "price": 0
+  },
+  "Jukebox": {
+    "commodities": [
+      {
+        "Jukebox": {
+          "volumeBought": 4,
+          "currentBuyPrice": 10
+        }
+      }
+    ],
+    "price": 10
+  },
+  "Kelp": {
+    "commodities": [
+      {
+        "Kelp": {
+          "volumeBought": 75,
+          "currentBuyPrice": 0.14164062500000002
+        }
+      }
+    ],
+    "price": 0.14164062500000002
+  },
+  "Lantern": {
+    "commodities": [
+      {
+        "Lantern": {
+          "volumeBought": 9,
+          "currentBuyPrice": 3.9571428571428564
+        }
+      }
+    ],
+    "price": 3.9571428571428564
+  },
+  "Lava Bucket": {
+    "commodities": [
+      {
+        "Lava Bucket": {
+          "volumeBought": 42,
+          "currentBuyPrice": 3.8725842696629167
+        }
+      }
+    ],
+    "price": 3.8725842696629167
+  },
+  "Lily Pad": {
+    "commodities": [],
+    "price": 0
+  },
+  "Loom": {
+    "commodities": [
+      {
+        "Loom": {}
+      }
+    ],
+    "price": null
+  },
+  "Magma Block": {
+    "commodities": [
+      {
+        "Magma Block": {
+          "volumeBought": 2373,
+          "currentBuyPrice": 0.5603499999999995
+        }
+      }
+    ],
+    "price": 0.5603499999999995
+  },
+  "Mangrove Propagule": {
+    "commodities": [
+      {
+        "Mangrove Propagule": {
+          "volumeBought": 3,
+          "currentBuyPrice": 1.9600000000000002
+        }
+      }
+    ],
+    "price": 1.9600000000000002
+  },
+  "Mangrove Roots": {
+    "commodities": [],
+    "price": 0
+  },
+  "Melon Slice": {
+    "commodities": [
+      {
+        "Melon Slice": {
+          "volumeBought": 160,
+          "currentBuyPrice": 0.12250000000000001
+        }
+      }
+    ],
+    "price": 0.12250000000000001
+  },
+  "Moss Block": {
+    "commodities": [
+      {
+        "Moss Block": {
+          "volumeBought": 2369,
+          "currentBuyPrice": 21.409205163043477
+        }
+      }
+    ],
+    "price": 21.409205163043477
+  },
+  "Mossy Cobblestone": {
+    "commodities": [
+      {
+        "Mossy Cobblestone": {
+          "volumeBought": 32,
+          "currentBuyPrice": 0.6533333333333333
+        }
+      }
+    ],
+    "price": 0.6533333333333333
+  },
+  "Mossy Stone": {
+    "commodities": [],
+    "price": 0
+  },
+  "Mud": {
+    "commodities": [],
+    "price": 0
+  },
+  "Mushroom Stem": {
+    "commodities": [
+      {
+        "Mushroom Stem": {
+          "volumeBought": 0,
+          "currentBuyPrice": 1
+        }
+      }
+    ],
+    "price": 1
+  },
+  "Mycelium": {
+    "commodities": [],
+    "price": 0
+  },
+  "Netherrack": {
+    "commodities": [
+      {
+        "Netherrack": {
+          "volumeBought": 3871,
+          "currentBuyPrice": 0.26627306338028206
+        }
+      }
+    ],
+    "price": 0.26627306338028206
+  },
+  "Nether Wart": {
+    "commodities": [
+      {
+        "Nether Wart": {
+          "volumeBought": 983,
+          "currentBuyPrice": 0.7853333333333328
+        }
+      }
+    ],
+    "price": 0.7853333333333328
+  },
+  "Note Block": {
+    "commodities": [
+      {
+        "Note Block": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Observer": {
+    "commodities": [
+      {
+        "Observer": {
+          "volumeBought": 0,
+          "currentBuyPrice": 19.6
+        }
+      }
+    ],
+    "price": 19.6
+  },
+  "Obsidian": {
+    "commodities": [
+      {
+        "Obsidian": {
+          "volumeBought": 301,
+          "currentBuyPrice": 4.438688524590163
+        }
+      }
+    ],
+    "price": 4.438688524590163
+  },
+  "Any Froglight": {
+    "commodities": [
+      {
+        "Ochre Froglight": {
+          "volumeBought": 781,
+          "currentBuyPrice": 4.149111842105267
+        }
+      },
+      {
+        "Pearlescent Froglight": {
+          "volumeBought": 1219,
+          "currentBuyPrice": 3.7092708333333353
+        }
+      },
+      {
+        "Verdant Froglight": {
+          "volumeBought": 1721,
+          "currentBuyPrice": 4.050083333333336
+        }
+      }
+    ],
+    "price": 3.969488669590646
+  },
+  "Pale Moss Block": {
+    "commodities": [],
+    "price": 0
+  },
+  "Piston": {
+    "commodities": [],
+    "price": 0
+  },
+  "Podzol": {
+    "commodities": [],
+    "price": 0
+  },
+  "Pointed Dripstone": {
+    "commodities": [
+      {
+        "Pointed Dripstone": {
+          "volumeBought": 26,
+          "currentBuyPrice": 1.6595394736842115
+        }
+      }
+    ],
+    "price": 1.6595394736842115
+  },
+  "Potato": {
+    "commodities": [
+      {
+        "Potato": {
+          "volumeBought": 3307,
+          "currentBuyPrice": 0.21094886363636334
+        }
+      }
+    ],
+    "price": 0.21094886363636334
+  },
+  "Powder Snow": {
+    "commodities": [],
+    "price": 0
+  },
+  "Prismarine": {
+    "commodities": [
+      {
+        "Prismarine": {
+          "volumeBought": 1913,
+          "currentBuyPrice": 0.6446875
+        }
+      }
+    ],
+    "price": 0.6446875
+  },
+  "Prismarine Bricks": {
+    "commodities": [
+      {
+        "Prismarine Bricks": {
+          "volumeBought": 809,
+          "currentBuyPrice": 0.3229545454545454
+        }
+      }
+    ],
+    "price": 0.3229545454545454
+  },
+  "Prismarine ": {
+    "commodities": [
+      {
+        "Prismarine": {
+          "volumeBought": 1913,
+          "currentBuyPrice": 0.6446875
+        }
+      }
+    ],
+    "price": 0.6446875
+  },
+  "Purpur Block": {
+    "commodities": [
+      {
+        "Purpur Block": {
+          "volumeBought": 512,
+          "currentBuyPrice": 0.7206730769230772
+        }
+      }
+    ],
+    "price": 0.7206730769230772
+  },
+  "Red Mushroom": {
+    "commodities": [
+      {
+        "Red Mushroom": {
+          "volumeBought": 67,
+          "currentBuyPrice": 1.2740000000000002
+        }
+      }
+    ],
+    "price": 1.2740000000000002
+  },
+  "Red Sand": {
+    "commodities": [
+      {
+        "Red Sand": {
+          "volumeBought": 545,
+          "currentBuyPrice": 0.31085227272727267
+        }
+      }
+    ],
+    "price": 0.31085227272727267
+  },
+  "Reisin Block": {
+    "commodities": [],
+    "price": 0
+  },
+  "Resin Clump": {
+    "commodities": [],
+    "price": 0
+  },
+  "Rooted Dirt": {
+    "commodities": [],
+    "price": 0
+  },
+  "Sand": {
+    "commodities": [
+      {
+        "Sand": {
+          "volumeBought": 11519,
+          "currentBuyPrice": 0.21550347222222238
+        }
+      }
+    ],
+    "price": 0.21550347222222238
+  },
+  "Scaffolding": {
+    "commodities": [
+      {
+        "Scaffolding": {
+          "volumeBought": 166,
+          "currentBuyPrice": 6.957999999999998
+        }
+      }
+    ],
+    "price": 6.957999999999998
+  },
+  "Sculk": {
+    "commodities": [
+      {
+        "Sculk": {
+          "volumeBought": 6,
+          "currentBuyPrice": 3.9200000000000013
+        }
+      }
+    ],
+    "price": 3.9200000000000013
+  },
+  "Sculk Catalyst": {
+    "commodities": [],
+    "price": 0
+  },
+  "Sculk Sensor": {
+    "commodities": [],
+    "price": 0
+  },
+  "Sculk Shrieker": {
+    "commodities": [],
+    "price": 0
+  },
+  "Sculk Vein": {
+    "commodities": [],
+    "price": 0
+  },
+  "Sea Lantern": {
+    "commodities": [
+      {
+        "Sea Lantern": {
+          "volumeBought": 427,
+          "currentBuyPrice": 4.794926829268295
+        }
+      }
+    ],
+    "price": 4.794926829268295
+  },
+  "Sea Pickle": {
+    "commodities": [],
+    "price": 0
+  },
+  "Shroomlight": {
+    "commodities": [
+      {
+        "Shroomlight": {
+          "volumeBought": 82,
+          "currentBuyPrice": 3.9115348837209303
+        }
+      }
+    ],
+    "price": 3.9115348837209303
+  },
+  "Slime Ball": {
+    "commodities": [
+      {
+        "Slime Ball": {
+          "volumeBought": 344,
+          "currentBuyPrice": 7.762344827586224
+        }
+      }
+    ],
+    "price": 7.762344827586224
+  },
+  "Smoker": {
+    "commodities": [
+      {
+        "Smoker": {
+          "volumeBought": 10,
+          "currentBuyPrice": 2.7440000000000007
+        }
+      }
+    ],
+    "price": 2.7440000000000007
+  },
+  "Smooth Stone": {
+    "commodities": [
+      {
+        "Smooth Stone": {
+          "volumeBought": 3648,
+          "currentBuyPrice": 0.26152138157894755
+        }
+      }
+    ],
+    "price": 0.26152138157894755
+  },
+  "Sniffer Egg": {
+    "commodities": [],
+    "price": 0
+  },
+  "Snow Block": {
+    "commodities": [
+      {
+        "Snow Block": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Soul Campfire": {
+    "commodities": [],
+    "price": 0
+  },
+  "Soul Lantern": {
+    "commodities": [],
+    "price": 0
+  },
+  "Soul Sand": {
+    "commodities": [
+      {
+        "Soul Sand": {
+          "volumeBought": 692,
+          "currentBuyPrice": 0.37666153846153816
+        }
+      }
+    ],
+    "price": 0.37666153846153816
+  },
+  "Soul Soil": {
+    "commodities": [],
+    "price": 0
+  },
+  "Soul Torch": {
+    "commodities": [],
+    "price": 0
+  },
+  "Sponge": {
+    "commodities": [
+      {
+        "Sponge": {
+          "volumeBought": 1771,
+          "currentBuyPrice": 5.23831395348837
+        }
+      }
+    ],
+    "price": 5.23831395348837
+  },
+  "Spore Blossom": {
+    "commodities": [
+      {
+        "Spore Blossom": {
+          "volumeBought": 0,
+          "currentBuyPrice": 0
+        }
+      }
+    ],
+    "price": null
+  },
+  "Sticky Piston": {
+    "commodities": [],
+    "price": 0
+  },
+  "Warped Stem": {
+    "commodities": [
+      {
+        "Warped Stem": {
+          "volumeBought": 1658,
+          "currentBuyPrice": 2.0834775193798403
+        }
+      }
+    ],
+    "price": 2.0834775193798403
+  },
+  "Sugar Cane": {
+    "commodities": [
+      {
+        "Sugar Cane": {
+          "volumeBought": 9428,
+          "currentBuyPrice": 0.28019251253132826
+        }
+      }
+    ],
+    "price": 0.28019251253132826
+  },
+  "Sweet Berries": {
+    "commodities": [
+      {
+        "Sweet Berries": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.26453125
+        }
+      }
+    ],
+    "price": 0.26453125
+  },
+  "Tinted Glass": {
+    "commodities": [
+      {
+        "Tinted Glass": {
+          "volumeBought": 64,
+          "currentBuyPrice": 0.459375
+        }
+      }
+    ],
+    "price": 0.459375
+  },
+  "TNT": {
+    "commodities": [
+      {
+        "Tnt": {
+          "volumeBought": 731,
+          "currentBuyPrice": 1.903999999999998
+        }
+      }
+    ],
+    "price": 1.903999999999998
+  },
+  "Torch": {
+    "commodities": [
+      {
+        "Torch": {
+          "volumeBought": 37,
+          "currentBuyPrice": 0.196
+        }
+      }
+    ],
+    "price": 0.196
+  },
+  "Tripwire Hook": {
+    "commodities": [
+      {
+        "Tripwire Hook": {
+          "volumeBought": 10,
+          "currentBuyPrice": 196
+        }
+      }
+    ],
+    "price": 196
+  },
+  "Turtle Egg": {
+    "commodities": [],
+    "price": 0
+  },
+  "Twisting Vines": {
+    "commodities": [],
+    "price": 0
+  },
+  "Vine": {
+    "commodities": [
+      {
+        "Vine": {
+          "volumeBought": 34,
+          "currentBuyPrice": 0.19599999999999998
+        }
+      }
+    ],
+    "price": 0.19599999999999998
+  },
+  "Warped Fungus": {
+    "commodities": [],
+    "price": 0
+  },
+  "Warped Nylium": {
+    "commodities": [],
+    "price": 0
+  },
+  "Warped Roots": {
+    "commodities": [],
+    "price": 0
+  },
+  "Warped Wart Block": {
+    "commodities": [],
+    "price": 0
+  },
+  "Water bucket": {
+    "commodities": [
+      {
+        "Water Bucket": {
+          "volumeBought": 39,
+          "currentBuyPrice": 5.292250000000005
+        }
+      }
+    ],
+    "price": 5.292250000000005
+  },
+  "Weeping Vines": {
+    "commodities": [],
+    "price": 0
+  },
+  "Wheat Seeds": {
+    "commodities": [
+      {
+        "Wheat Seeds": {
+          "volumeBought": 2413,
+          "currentBuyPrice": 0.06492499999999994
+        }
+      }
+    ],
+    "price": 0.06492499999999994
+  },
+  "Blaze Rod": {
+    "commodities": [
+      {
+        "Blaze Rod": {
+          "volumeBought": 78,
+          "currentBuyPrice": 3.1541052631579007
+        }
+      }
+    ],
+    "price": 3.1541052631579007
+  },
+  "Wither Rose": {
+    "commodities": [
+      {
+        "Wither Rose": {
+          "volumeBought": 528,
+          "currentBuyPrice": 1.642926829268291
+        }
+      }
+    ],
+    "price": 1.642926829268291
+  }
+}

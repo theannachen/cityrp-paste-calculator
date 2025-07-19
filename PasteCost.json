@@ -1,0 +1,3855 @@
+{
+  "Acacia Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Acacia Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Acacia Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Acacia Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Acacia Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Acacia Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Acacia Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Acacia Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Acacia Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Acacia Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Acacia Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Acacia Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Acacia Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Acacia Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Acacia Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Activator Rail": {
+    "Iron Ingot": "1",
+    "price": 0.8896153265
+  },
+  "Allium": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Amethyst Cluster": {
+    "Amethyst Cluster": "1",
+    "price": 2
+  },
+  "Ancient Debris": {
+    "Ancient Debris": "1",
+    "price": 5.167018519
+  },
+  "Andesite": {
+    "Andesite": "1",
+    "price": 0.2343738584
+  },
+  "Andesite Slab": {
+    "Andesite": "0.5",
+    "price": 0.1171869292
+  },
+  "Andesite Stairs": {
+    "Andesite": "1",
+    "price": 0.2343738584
+  },
+  "Andesite Wall": {
+    "Andesite": "1",
+    "price": 0.2343738584
+  },
+  "Anvil": {
+    "Iron Ingot": "31",
+    "price": 27.5780751215
+  },
+  "Azalea": {
+    "Azalea": "1",
+    "price": 0.8575
+  },
+  "Azalea Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Azure Bluet": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Bamboo": {
+    "Bamboo": "1",
+    "price": 0.277625
+  },
+  "Bamboo Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Bamboo Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Bamboo Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Bamboo Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Bamboo Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Bamboo Mosaic": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Bamboo Mosaic Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Bamboo Mosaic Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Bamboo Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Bamboo Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Bamboo Shoot": {
+    "Bamboo": "1",
+    "price": 0.277625
+  },
+  "Bamboo Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Bamboo Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Bamboo Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Bamboo Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Barrel": {
+    "Any Log": "1.75",
+    "price": 0.91153146595
+  },
+  "Basalt": {
+    "Basalt": "1",
+    "price": 3.079871324
+  },
+  "Beacon": {
+    "Beacon": "1",
+    "price": 4900
+  },
+  "Bee Nest": {
+    "Bee Nest": "1",
+    "price": 2
+  },
+  "Beehive": {
+    "Beehive": "1",
+    "price": 2
+  },
+  "Beetroots": {
+    "Beetroot Seeds": "1",
+    "price": 0.196
+  },
+  "Bell": {
+    "Bell": "1",
+    "price": 49
+  },
+  "Big Dripleaf": {
+    "Big Dripleaf": "1",
+    "price": 8.428
+  },
+  "Birch Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Birch Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Birch Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Birch Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Birch Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Birch Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Birch Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Birch Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Birch Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Birch Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Birch Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Birch Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Birch Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Birch Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Birch Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Black Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Black Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Black Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Black Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Black Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Black Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Black Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Black Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Black Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Black Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Black Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Black Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Blackstone": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Blackstone Slab": {
+    "Blackstone": "0.5",
+    "price": 0.27259442935
+  },
+  "Blackstone Stairs": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Blackstone Wall": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Blast Furnace": {
+    "Blast Furnace": "1",
+    "price": 6.37
+  },
+  "Block of Amethyst": {
+    "Amethyst Block": "1",
+    "price": 2.722857143
+  },
+  "Block of Bamboo": {
+    "Bamboo": "9",
+    "price": 2.498625
+  },
+  "Block of Coal": {
+    "Coal": "9",
+    "price": 3.9153039102000005
+  },
+  "Block of Copper": {
+    "Copper Ingot": "9",
+    "price": 5.8076756757
+  },
+  "Block of Diamond": {
+    "Diamond": "9",
+    "price": 13.221557343
+  },
+  "Block of Emerald": {
+    "Emerald": "9",
+    "price": 12.281747463
+  },
+  "Block of Gold": {
+    "Gold Ingot": "9",
+    "price": 5.0571012276000005
+  },
+  "Block of Iron": {
+    "Iron Ingot": "9",
+    "price": 8.0065379385
+  },
+  "Block of Lapis Lazuli": {
+    "Lapis Lazuli": "9",
+    "price": 4.9671091701
+  },
+  "Block of Netherite": {
+    "Netherite Ingot": "9",
+    "price": 220.64866487999998
+  },
+  "Block of Quartz": {
+    "Quartz Block": "1",
+    "price": 1.893181818
+  },
+  "Block of Raw Copper": {
+    "Raw Copper": "9",
+    "price": 2.8746666666
+  },
+  "Block of Raw Gold": {
+    "Raw Gold": "9",
+    "price": 2.75625
+  },
+  "Block of Raw Iron": {
+    "Raw Iron": "9",
+    "price": 5.0045625000000005
+  },
+  "Block of Redstone": {
+    "Redstone": "1",
+    "price": 0.4397073286
+  },
+  "Block of Resin": {
+    "Block of Resin": "1",
+    "price": 10
+  },
+  "Block of Stripped Bamboo": {
+    "Bamboo": "9",
+    "price": 2.498625
+  },
+  "Blue Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Blue Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Blue Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Blue Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Blue Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Blue Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Blue Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Blue Ice": {
+    "Ice": "81",
+    "price": 55.153636362899995
+  },
+  "Blue Orchid": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Blue Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Blue Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Blue Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Blue Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Blue Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Bone Block": {
+    "Bone Block": "1",
+    "price": 7.802307692
+  },
+  "Bookshelf": {
+    "Bookshelf": "1",
+    "price": 13.78461538
+  },
+  "Brain Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Brain Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Brain Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Brewing Stand": {
+    "Brewing Stand": "1",
+    "price": 1
+  },
+  "Bricks": {
+    "Bricks": "1",
+    "price": 0.742735
+  },
+  "Brick Slab": {
+    "Bricks": "0.5",
+    "price": 0.3713675
+  },
+  "Brick Stairs": {
+    "Bricks": "1",
+    "price": 0.742735
+  },
+  "Brick Wall": {
+    "Bricks": "1",
+    "price": 0.742735
+  },
+  "Brown Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Brown Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Brown Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Brown Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Brown Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Brown Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Brown Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Brown Mushroom": {
+    "Brown Mushroom": "1",
+    "price": 0.8463636364
+  },
+  "Brown Mushroom Block": {
+    "Brown Mushroom": "4",
+    "price": 3.3854545456
+  },
+  "Brown Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Brown Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Brown Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Brown Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Brown Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Bubble Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Bubble Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Bubble Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Budding Amethyst": {
+    "Budding Amethyst": "1",
+    "price": 50
+  },
+  "Cactus": {
+    "Cactus": "1",
+    "price": 0.4783081897
+  },
+  "Cake": {
+    "Cake": "1",
+    "price": 8
+  },
+  "Calcite": {
+    "Calcite": "1",
+    "price": 0.2478608796
+  },
+  "Calibrated Sculk Sensor": {
+    "Calibrated Sculk Sensor": "1",
+    "price": 10
+  },
+  "Campfire": {
+    "Any Log": "3.375",
+    "Coal": "1",
+    "price": 2.192987309275
+  },
+  "Candle": {
+    "Candle": "1",
+    "price": 3.675
+  },
+  "Carrots": {
+    "Carrot": "1",
+    "price": 0.7897409539
+  },
+  "Cartography Table": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Carved Pumpkin": {
+    "Pumpkin": "1",
+    "price": 0.3919230769
+  },
+  "Cauldron": {
+    "Iron Ingot": "7",
+    "price": 6.2273072855
+  },
+  "Cave Vines": {
+    "Glow Berries": "1",
+    "price": 0.49
+  },
+  "Chain": {
+    "Iron Ingot": "1.22",
+    "price": 1.08533069833
+  },
+  "Chest": {
+    "Any Log": "2",
+    "price": 1.0417502468
+  },
+  "Cherry Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Cherry Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Cherry Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Cherry Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Cherry Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Cherry Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Cherry Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Cherry Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Cherry Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Cherry Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Cherry Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Cherry Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Cherry Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Cherry Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Cherry Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Chipped Anvil": {
+    "Iron Ingot": "31",
+    "price": 27.5780751215
+  },
+  "Chiseled Bookshelf": {
+    "Any Log": "1.87",
+    "price": 0.974036480758
+  },
+  "Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Chiseled Deepslate": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Chiseled Nether Bricks": {
+    "Nether Bricks": "1",
+    "price": 0.18375
+  },
+  "Chiseled Polished Blackstone": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Chiseled Quartz Block": {
+    "Quartz Block": "1",
+    "price": 1.893181818
+  },
+  "Chiseled Red Sandstone": {
+    "Red Sandstone": "1",
+    "price": 1
+  },
+  "Chiseled Resin Bricks": {
+    "Resin Bricks": "1",
+    "price": 10
+  },
+  "Chiseled Sandstone": {
+    "Sandstone": "1",
+    "price": 0.459375
+  },
+  "Chiseled Stone Bricks": {
+    "Stone": "1",
+    "price": 0.1720833333
+  },
+  "Chiseled Tuff": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Chiseled Tuff Bricks": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Chorus Flower": {
+    "Chorus Flower": "1",
+    "price": 10
+  },
+  "Chorus Plant": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Clay": {
+    "Clay": "1",
+    "price": 2
+  },
+  "Coal Ore": {
+    "Stone": "1",
+    "Coal": "8",
+    "price": 3.6523534757
+  },
+  "Coarse Dirt": {
+    "Dirt": "0.5",
+    "Gravel": "0.5",
+    "price": 0.16449603705
+  },
+  "Cobbled Deepslate": {
+    "Cobbled Deepslate": "1",
+    "price": 0.2169402174
+  },
+  "Cobbled Deepslate Slab": {
+    "Cobbled Deepslate": "0.5",
+    "price": 0.1084701087
+  },
+  "Cobbled Deepslate Stairs": {
+    "Cobbled Deepslate": "1",
+    "price": 0.2169402174
+  },
+  "Cobbled Deepslate Wall": {
+    "Cobbled Deepslate": "1",
+    "price": 0.2169402174
+  },
+  "Cobblestone": {
+    "Cobblestone": "1",
+    "price": 0.1517659483
+  },
+  "Cobblestone Slab": {
+    "Cobblestone": "0.5",
+    "price": 0.07588297415
+  },
+  "Cobblestone Stairs": {
+    "Cobblestone": "1",
+    "price": 0.1517659483
+  },
+  "Cobblestone Wall": {
+    "Cobblestone": "1",
+    "price": 0.1517659483
+  },
+  "Cobweb": {
+    "String": "4",
+    "price": 7.213103448
+  },
+  "Cocoa": {
+    "Cocoa Beans": "1",
+    "price": 0.3675365854
+  },
+  "Composter": {
+    "Any Log": "0.875",
+    "price": 0.455765732975
+  },
+  "Copper Bulb": {
+    "Copper Ingot": "6.75",
+    "Blaze Rod": "0.25",
+    "price": 5.144283072524999
+  },
+  "Copper Door": {
+    "Copper Ingot": "2",
+    "price": 1.2905945946
+  },
+  "Copper Grate": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Copper Ore": {
+    "Stone": "1",
+    "Copper Ingot": "8",
+    "price": 5.3344617116999995
+  },
+  "Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "price": 1.9358918918999999
+  },
+  "Cornflower": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Cracked Deepslate Bricks": {
+    "Deepslate": "1",
+    "Coal": "0.125",
+    "price": 0.264926095975
+  },
+  "Cracked Deepslate Tiles": {
+    "Deepslate": "1",
+    "Coal": "0.125",
+    "price": 0.264926095975
+  },
+  "Cracked Nether Bricks": {
+    "Nether Bricks": "1",
+    "Coal": "0.125",
+    "price": 0.238129220975
+  },
+  "Cracked Polished Blackstone Bricks": {
+    "Blackstone": "1",
+    "Coal": "0.125",
+    "price": 0.599568079675
+  },
+  "Cracked Stone Bricks": {
+    "Stone": "1",
+    "Coal": "0.125",
+    "price": 0.226462554275
+  },
+  "Crafter": {
+    "Crafter": "1",
+    "price": 3
+  },
+  "Crafting Table": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Creaking Heart": {
+    "Creaking Heart": "1",
+    "price": 10
+  },
+  "Crimson Button": {
+    "Crimson Stem": "0.25",
+    "price": 0.188552631575
+  },
+  "Crimson Door": {
+    "Crimson Stem": "0.5",
+    "price": 0.37710526315
+  },
+  "Crimson Fence": {
+    "Crimson Stem": "0.42",
+    "price": 0.31676842104599995
+  },
+  "Crimson Fence Gate": {
+    "Crimson Stem": "1",
+    "price": 0.7542105263
+  },
+  "Crimson Fungus": {
+    "Crimson Fungus": "1",
+    "price": 2
+  },
+  "Crimson Hanging Sign": {
+    "Crimson Stem": "1",
+    "Iron Ingot": "0.4",
+    "price": 1.1100566568999999
+  },
+  "Crimson Hyphae": {
+    "Crimson Hyphae": "1.33",
+    "price": 1.33
+  },
+  "Crimson Nylium": {
+    "Crimson Nylium": "1",
+    "price": 2
+  },
+  "Crimson Planks": {
+    "Crimson Stem": "0.25",
+    "price": 0.188552631575
+  },
+  "Crimson Pressure Plate": {
+    "Crimson Stem": "0.5",
+    "price": 0.37710526315
+  },
+  "Crimson Roots": {
+    "Crimson Roots": "1",
+    "price": 0.5
+  },
+  "Crimson Sign": {
+    "Crimson Stem": "0.54",
+    "price": 0.407273684202
+  },
+  "Crimson Slab": {
+    "Crimson Stem": "0.125",
+    "price": 0.0942763157875
+  },
+  "Crimson Stairs": {
+    "Crimson Stem": "0.375",
+    "price": 0.28282894736249997
+  },
+  "Crimson Stem": {
+    "Crimson Stem": "1",
+    "price": 0.7542105263
+  },
+  "Crimson Trapdoor": {
+    "Crimson Stem": "0.75",
+    "price": 0.5656578947249999
+  },
+  "Crying Obsidian": {
+    "Crying Obsidian": "1",
+    "price": 5
+  },
+  "Cut Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "price": 0.7259594594625
+  },
+  "Cut Copper Stairs": {
+    "Copper Ingot": "1",
+    "price": 0.6452972973
+  },
+  "Cut Red Sandstone": {
+    "Red Sandstone": "1",
+    "price": 1
+  },
+  "Cut Red Sandstone Slab": {
+    "Red Sandstone": "0.5",
+    "price": 0.5
+  },
+  "Cut Sandstone": {
+    "Sandstone": "1",
+    "price": 0.459375
+  },
+  "Cut Sandstone Slab": {
+    "Sandstone": "0.5",
+    "price": 0.2296875
+  },
+  "Cyan Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Cyan Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Cyan Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Cyan Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Cyan Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Cyan Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Cyan Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Cyan Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Cyan Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Cyan Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Cyan Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Cyan Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Damaged Anvil": {
+    "Anvil": "1",
+    "price": 23.2
+  },
+  "Dandelion": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Dark Oak Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Dark Oak Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Dark Oak Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Dark Oak Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Dark Oak Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Dark Oak Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Dark Oak Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Dark Oak Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Dark Oak Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Dark Oak Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Dark Oak Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Dark Oak Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Dark Oak Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Dark Oak Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Dark Oak Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Dark Prismarine": {
+    "Dark Prismarine": "1",
+    "price": 0.5187609649
+  },
+  "Dark Prismarine Slab": {
+    "Dark Prismarine": "0.5",
+    "price": 0.25938048245
+  },
+  "Dark Prismarine Stairs": {
+    "Dark Prismarine": "1",
+    "price": 0.5187609649
+  },
+  "Daylight Detector": {
+    "Daylight Detector": "1",
+    "price": 2
+  },
+  "Dead Brain Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Dead Brain Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Dead Brain Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Dead Bubble Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Dead Bubble Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Dead Bubble Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Dead Bush": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Dead Fire Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Dead Fire Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Dead Fire Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Dead Horn Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Dead Horn Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Dead Horn Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Dead Tube Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Dead Tube Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Dead Tube Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Decorated Pot": {
+    "Decorated Pot": "1",
+    "price": 14.7
+  },
+  "Deepslate": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Deepslate Bricks": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Deepslate Brick Slab": {
+    "Deepslate": "0.5",
+    "price": 0.1052734375
+  },
+  "Deepslate Brick Stairs": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Deepslate Brick Wall": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Deepslate Coal Ore": {
+    "Deepslate": "1",
+    "Coal": "8",
+    "price": 3.6908170174
+  },
+  "Deepslate Copper Ore": {
+    "Deepslate": "1",
+    "Copper Ingot": "8",
+    "price": 5.3729252534
+  },
+  "Deepslate Diamond Ore": {
+    "Deepslate": "1",
+    "Diamond": "8",
+    "price": 11.963042291
+  },
+  "Deepslate Emerald Ore": {
+    "Deepslate": "1",
+    "Emerald": "8",
+    "price": 11.127655731
+  },
+  "Deepslate Gold Ore": {
+    "Deepslate": "1",
+    "Gold Ingot": "8",
+    "price": 4.705747966200001
+  },
+  "Deepslate Iron Ore": {
+    "Deepslate": "1",
+    "Iron Ingot": "8",
+    "price": 7.327469487
+  },
+  "Deepslate Lapis Lazuli Ore": {
+    "Deepslate": "1",
+    "Lapis Lazuli": "8",
+    "price": 4.6257550262
+  },
+  "Deepslate Redstone Ore": {
+    "Deepslate": "1",
+    "Redstone": "8",
+    "price": 3.7282055038
+  },
+  "Deepslate Tiles": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Deepslate Tile Slab": {
+    "Deepslate": "0.5",
+    "price": 0.1052734375
+  },
+  "Deepslate Tile Stairs": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Deepslate Tile Wall": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Detector Rail": {
+    "Iron Ingot": "1",
+    "price": 0.8896153265
+  },
+  "Diamond Ore": {
+    "Stone": "1",
+    "Diamond": "8",
+    "price": 11.9245787493
+  },
+  "Diorite": {
+    "Diorite": "1",
+    "price": 0.1914332483
+  },
+  "Diorite Slab": {
+    "Diorite": "0.5",
+    "price": 0.09571662415
+  },
+  "Diorite Stairs": {
+    "Diorite": "1",
+    "price": 0.1914332483
+  },
+  "Diorite Wall": {
+    "Diorite": "1",
+    "price": 0.1914332483
+  },
+  "Dirt": {
+    "Dirt": "1",
+    "price": 0.1413754864
+  },
+  "Dirt Path": {
+    "Dirt": "1",
+    "price": 0.1413754864
+  },
+  "Dispenser": {
+    "Cobblestone": "7",
+    "Redstone": "1",
+    "price": 1.5020689667
+  },
+  "Dried Kelp Block": {
+    "Dried Kelp Block": "1",
+    "price": 0.837484375
+  },
+  "Dripstone Block": {
+    "Dripstone Block": "1",
+    "price": 0.6264423077
+  },
+  "Dropper": {
+    "Cobblestone": "7",
+    "Redstone": "1",
+    "price": 1.5020689667
+  },
+  "Emerald Ore": {
+    "Stone": "1",
+    "Emerald": "8",
+    "price": 11.0891921893
+  },
+  "Enchanting Table": {
+    "Enchanting Table": "1",
+    "price": 25
+  },
+  "End Rod": {
+    "End Rod": "1",
+    "price": 5.579767442
+  },
+  "End Stone": {
+    "End Stone": "1",
+    "price": 0.4402556818
+  },
+  "End Stone Brick Slab": {
+    "End Stone": "0.5",
+    "price": 0.2201278409
+  },
+  "End Stone Brick Stairs": {
+    "End Stone": "1",
+    "price": 0.4402556818
+  },
+  "End Stone Brick Wall": {
+    "End Stone": "1",
+    "price": 0.4402556818
+  },
+  "End Stone Bricks": {
+    "End Stone": "1",
+    "price": 0.4402556818
+  },
+  "Ender Chest": {
+    "Ender Chest": "1",
+    "price": 24.5
+  },
+  "Exposed Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Exposed Copper": {
+    "Copper Ingot": "9",
+    "price": 5.8076756757
+  },
+  "Exposed Copper Bulb": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Exposed Copper Door": {
+    "Copper Ingot": "2",
+    "price": 1.2905945946
+  },
+  "Exposed Copper Grate": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Exposed Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "price": 1.9358918918999999
+  },
+  "Exposed Cut Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Exposed Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "price": 0.7259594594625
+  },
+  "Exposed Cut Copper Stairs": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Farmland": {
+    "Dirt": "1",
+    "price": 0.1413754864
+  },
+  "Fire Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Fire Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Fire Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Fletching Table": {
+    "Any Log": "1",
+    "Gravel": "2",
+    "price": 0.8961082988
+  },
+  "Flower Pot": {
+    "Flower Pot": "1",
+    "price": 0.547
+  },
+  "Flowering Azalea": {
+    "Flowering Azalea": "1",
+    "price": 0.49
+  },
+  "Flowering Azalea Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Frogspawn": {
+    "Frogspawn": "1",
+    "price": 3
+  },
+  "Furnace": {
+    "Furnace": "1",
+    "price": 19.6
+  },
+  "Gilded Blackstone": {
+    "Gilded Blackstone": "1",
+    "price": 5
+  },
+  "Glass": {
+    "Glass": "1",
+    "price": 0.6711376582
+  },
+  "Glass Pane": {
+    "Glass": "0.375",
+    "price": 0.251676621825
+  },
+  "Glow Lichen": {
+    "Glow Lichen": "1",
+    "price": 0.2128571429
+  },
+  "Glowstone": {
+    "Glowstone": "1",
+    "price": 1.440275229
+  },
+  "Gold Ore": {
+    "Stone": "1",
+    "Gold Ingot": "8",
+    "price": 4.6672844245
+  },
+  "Granite": {
+    "Granite": "1",
+    "price": 0.2945660377
+  },
+  "Granite Slab": {
+    "Granite": "0.5",
+    "price": 0.14728301885
+  },
+  "Granite Stairs": {
+    "Granite": "1",
+    "price": 0.2945660377
+  },
+  "Granite Wall": {
+    "Granite": "1",
+    "price": 0.2945660377
+  },
+  "Grass Block": {
+    "Grass Block": "1",
+    "price": 2
+  },
+  "Gravel": {
+    "Gravel": "1",
+    "price": 0.1876165877
+  },
+  "Gray Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Gray Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Gray Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Gray Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Gray Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Gray Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Gray Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Gray Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Gray Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Gray Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Gray Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Gray Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Green Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Green Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Green Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Green Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Green Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Green Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Green Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Green Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Green Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Green Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Green Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Green Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Grindstone": {
+    "Stone": "0.5",
+    "Any Log": "0.75",
+    "price": 0.4766980092
+  },
+  "Hanging Roots": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Hay Bale": {
+    "Hay Block": "1",
+    "price": 2
+  },
+  "Heavy Weighted Pressure Plate": {
+    "Iron Ingot": "0.5",
+    "price": 0.44480766325
+  },
+  "Honey Block": {
+    "Honey Bottle": "4",
+    "price": 12.30193846
+  },
+  "Honeycomb Block": {
+    "Honeycomb": "9",
+    "price": 5.965389705600001
+  },
+  "Hopper": {
+    "Iron Ingot": "5",
+    "Any Log": "1",
+    "price": 4.968951755899999
+  },
+  "Horn Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Horn Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Horn Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Ice": {
+    "Ice": "1",
+    "price": 0.6809090909
+  },
+  "Iron Bars": {
+    "Iron Ingot": "0.375",
+    "price": 0.3336057474375
+  },
+  "Iron Door": {
+    "Iron Ingot": "6",
+    "price": 5.337691959
+  },
+  "Iron Ore": {
+    "Stone": "1",
+    "Iron Ingot": "8",
+    "price": 7.2890059453
+  },
+  "Iron Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Jack o'Lantern": {
+    "Pumpkin": "1",
+    "Any Log": "0.325",
+    "price": 0.561207492005
+  },
+  "Jukebox": {
+    "Jukebox": "1",
+    "price": 10
+  },
+  "Jungle Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Jungle Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Jungle Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Jungle Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Jungle Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Jungle Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Jungle Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Jungle Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Jungle Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Jungle Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Jungle Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Jungle Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Jungle Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Jungle Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Jungle Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Kelp": {
+    "Kelp": "1",
+    "price": 0.141640625
+  },
+  "Ladder": {
+    "Any Log": "0.3",
+    "price": 0.15626253701999998
+  },
+  "Lantern": {
+    "Lantern": "1",
+    "price": 3.957142857
+  },
+  "Lapis Lazuli Ore": {
+    "Stone": "1",
+    "Lapis Lazuli": "8",
+    "price": 4.5872914845
+  },
+  "Large Amethyst Bud": {
+    "Amethyst Cluster": "1",
+    "price": 2
+  },
+  "Lava": {
+    "Lava Bucket": "1",
+    "price": 3.87258427
+  },
+  "Lectern": {
+    "Any Log": "2",
+    "price": 1.0417502468
+  },
+  "Lever": {
+    "Cobblestone": "1",
+    "Any Log": "0.125",
+    "price": 0.216875338725
+  },
+  "Light Blue Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Light Blue Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Light Blue Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Light Blue Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Light Blue Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Light Blue Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Light Blue Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Light Blue Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Light Blue Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Light Blue Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Light Blue Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Light Blue Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Light Gray Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Light Gray Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Light Gray Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Light Gray Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Light Gray Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Light Gray Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Light Gray Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Light Gray Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Light Gray Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Light Gray Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Light Gray Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Light Gray Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Light Weighted Pressure Plate": {
+    "Gold Ingot": "2",
+    "price": 1.1238002728
+  },
+  "Lightning Rod": {
+    "Copper Ingot": "3",
+    "price": 1.9358918918999999
+  },
+  "Lilac": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Lily of the Valley": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Lily Pad": {
+    "Lily Pad": "1",
+    "price": 2
+  },
+  "Lime Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Lime Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Lime Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Lime Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Lime Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Lime Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Lime Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Lime Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Lime Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Lime Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Lime Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Lime Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Lodestone": {
+    "Stone": "8",
+    "Iron Ingot": "1",
+    "price": 2.2662819928999998
+  },
+  "Loom": {
+    "Any Log": "1",
+    "String": "2",
+    "price": 4.1274268474
+  },
+  "Magenta Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Magenta Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Magenta Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Magenta Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Magenta Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Magenta Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Magenta Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Magenta Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Magenta Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Magenta Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Magenta Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Magenta Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Magma Block": {
+    "Magma Block": "1",
+    "price": 0.56035
+  },
+  "Mangrove Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Mangrove Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Mangrove Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Mangrove Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Mangrove Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Mangrove Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Mangrove Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Mangrove Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Mangrove Propagule": {
+    "Mangrove Propagule": "1",
+    "price": 1.96
+  },
+  "Mangrove Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Mangrove Roots": {
+    "Mangrove Roots": "1",
+    "price": 0.5
+  },
+  "Mangrove Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Mangrove Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Mangrove Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Mangrove Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Mangrove Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Medium Amethyst Bud": {
+    "Amethyst Cluster": "1",
+    "price": 2
+  },
+  "Melon": {
+    "Melon Slice": "1",
+    "price": 0.1225
+  },
+  "Melon Stem": {
+    "Melon Slice": "1",
+    "price": 0.1225
+  },
+  "Moss Block": {
+    "Moss Block": "1",
+    "price": 2
+  },
+  "Moss Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Mossy Cobblestone": {
+    "Mossy Cobblestone": "1",
+    "price": 0.6533333333
+  },
+  "Mossy Cobblestone Slab": {
+    "Mossy Cobblestone": "0.5",
+    "price": 0.32666666665
+  },
+  "Mossy Cobblestone Stairs": {
+    "Mossy Cobblestone": "1",
+    "price": 0.6533333333
+  },
+  "Mossy Cobblestone Wall": {
+    "Mossy Cobblestone": "1",
+    "price": 0.6533333333
+  },
+  "Mossy Stone Brick Slab": {
+    "Mossy Stone": "0.5",
+    "price": 0.25
+  },
+  "Mossy Stone Brick Stairs": {
+    "Mossy Stone": "1",
+    "price": 0.5
+  },
+  "Mossy Stone Brick Wall": {
+    "Mossy Stone": "1",
+    "price": 0.5
+  },
+  "Mossy Stone Bricks": {
+    "Mossy Stone": "1",
+    "price": 0.5
+  },
+  "Mud": {
+    "Mud": "1",
+    "price": 0.5
+  },
+  "Mud Brick Slab": {
+    "Mud": "0.5",
+    "Hay Block": "0.0555",
+    "price": 0.361
+  },
+  "Mud Brick Stairs": {
+    "Mud": "1",
+    "Hay Block": "0.111",
+    "price": 0.722
+  },
+  "Mud Brick Wall": {
+    "Mud": "1",
+    "Hay Block": "0.111",
+    "price": 0.722
+  },
+  "Mud Bricks": {
+    "Mud": "1",
+    "Hay Block": "0.111",
+    "price": 0.722
+  },
+  "Muddy Mangrove Roots": {
+    "Mud": "1",
+    "Hay Block": "0.111",
+    "price": 0.722
+  },
+  "Mushroom Stem": {
+    "Mushroom Stem": "1",
+    "price": 1
+  },
+  "Mycelium": {
+    "Mycelium": "1",
+    "price": 1
+  },
+  "Nether Brick Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Nether Brick Slab": {
+    "Nether Bricks": "0.5",
+    "price": 0.091875
+  },
+  "Nether Brick Stairs": {
+    "Nether Bricks": "1",
+    "price": 0.18375
+  },
+  "Nether Brick Wall": {
+    "Nether Bricks": "1",
+    "price": 0.18375
+  },
+  "Nether Bricks": {
+    "Nether Bricks": "1",
+    "price": 0.18375
+  },
+  "Nether Gold Ore": {
+    "Netherrack": "1",
+    "Gold Ingot": "1",
+    "price": 0.8281731998
+  },
+  "Nether Quartz Ore": {
+    "Netherrack": "1",
+    "Quartz Block": "1",
+    "price": 2.1594548814
+  },
+  "Nether Wart": {
+    "Nether Wart": "1",
+    "price": 0.7853333333
+  },
+  "Nether Wart Block": {
+    "Nether Wart": "9",
+    "price": 7.0679999997
+  },
+  "Netherrack": {
+    "Netherrack": "1",
+    "price": 0.2662730634
+  },
+  "Note Block": {
+    "Any Log": "2",
+    "Redstone": "1",
+    "price": 1.4814575754
+  },
+  "Oak Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Oak Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Oak Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Oak Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Oak Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Oak Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Oak Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Oak Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Oak Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Oak Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Oak Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Oak Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Oak Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Oak Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Oak Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Observer": {
+    "Observer": "1",
+    "price": 19.6
+  },
+  "Obsidian": {
+    "Obsidian": "1",
+    "price": 4.438688525
+  },
+  "Ochre Froglight": {
+    "Any Froglight": "1",
+    "price": 3.96948867
+  },
+  "Ominous Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Open Eyeblossom": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Orange Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Orange Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Orange Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Orange Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Orange Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Orange Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Orange Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Orange Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Orange Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Orange Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Orange Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Orange Tulip": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Orange Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Oxeye Daisy": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Oxidized Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Oxidized Copper": {
+    "Copper Ingot": "9",
+    "price": 5.8076756757
+  },
+  "Oxidized Copper Bulb": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Oxidized Copper Door": {
+    "Copper Ingot": "2",
+    "price": 1.2905945946
+  },
+  "Oxidized Copper Grate": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Oxidized Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "price": 1.9358918918999999
+  },
+  "Oxidized Cut Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Oxidized Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "price": 0.7259594594625
+  },
+  "Oxidized Cut Copper Stairs": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Packed Ice": {
+    "Ice": "9",
+    "price": 6.1281818181
+  },
+  "Packed Mud": {
+    "Mud": "1",
+    "Hay Block": "0.111",
+    "price": 0.722
+  },
+  "Pale Hanging Moss": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Pale Moss Block": {
+    "Pale Moss Block": "1",
+    "price": 5
+  },
+  "Pale Moss Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Pale Oak Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Pale Oak Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Pale Oak Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Pale Oak Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Pale Oak Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Pale Oak Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Pale Oak Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Pale Oak Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Pale Oak Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Pale Oak Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Pale Oak Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Pale Oak Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Pale Oak Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Pale Oak Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Pale Oak Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Pearlescent Froglight": {
+    "Any Froglight": "1",
+    "price": 3.96948867
+  },
+  "Peony": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Petrified Oak Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Pink Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Pink Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Pink Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Pink Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Pink Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Pink Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Pink Petals": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Pink Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Pink Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Pink Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Pink Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Pink Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Pink Tulip": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Pink Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Pitcher Crop": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Pitcher Plant": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Piston": {
+    "Piston": "1",
+    "price": 2
+  },
+  "Podzol": {
+    "Podzol": "1",
+    "price": 0.5
+  },
+  "Pointed Dripstone": {
+    "Pointed Dripstone": "1",
+    "price": 1.659539474
+  },
+  "Polished Andesite": {
+    "Andesite": "1",
+    "price": 0.2343738584
+  },
+  "Polished Andesite Slab": {
+    "Andesite": "0.5",
+    "price": 0.1171869292
+  },
+  "Polished Andesite Stairs": {
+    "Andesite": "1",
+    "price": 0.2343738584
+  },
+  "Polished Basalt": {
+    "Basalt": "1",
+    "price": 3.079871324
+  },
+  "Polished Blackstone": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Polished Blackstone Brick Slab": {
+    "Blackstone": "0.5",
+    "price": 0.27259442935
+  },
+  "Polished Blackstone Brick Stairs": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Polished Blackstone Brick Wall": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Polished Blackstone Bricks": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Polished Blackstone Button": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Polished Blackstone Pressure Plate": {
+    "Blackstone": "2",
+    "price": 1.0903777174
+  },
+  "Polished Blackstone Slab": {
+    "Blackstone": "0.5",
+    "price": 0.27259442935
+  },
+  "Polished Blackstone Stairs": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Polished Blackstone Wall": {
+    "Blackstone": "1",
+    "price": 0.5451888587
+  },
+  "Polished Diorite": {
+    "Diorite": "1",
+    "price": 0.1914332483
+  },
+  "Polished Diorite Slab": {
+    "Diorite": "0.5",
+    "price": 0.09571662415
+  },
+  "Polished Diorite Stairs": {
+    "Diorite": "1",
+    "price": 0.1914332483
+  },
+  "Polished Granite": {
+    "Granite": "1",
+    "price": 0.2945660377
+  },
+  "Polished Granite Slab": {
+    "Granite": "0.5",
+    "price": 0.14728301885
+  },
+  "Polished Granite Stairs": {
+    "Granite": "1",
+    "price": 0.2945660377
+  },
+  "Polished Deepslate": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Polished Deepslate Slab": {
+    "Deepslate": "0.5",
+    "price": 0.1052734375
+  },
+  "Polished Deepslate Stairs": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Polished Deepslate Wall": {
+    "Deepslate": "1",
+    "price": 0.210546875
+  },
+  "Polished Tuff": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Polished Tuff Slab": {
+    "Tuff": "0.5",
+    "price": 0.13100694445
+  },
+  "Polished Tuff Stairs": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Polished Tuff Wall": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Poppy": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Potatoes": {
+    "Potato": "1",
+    "price": 0.2109488636
+  },
+  "Powder Snow": {
+    "Powder Snow": "1",
+    "price": 3
+  },
+  "Powered Rail": {
+    "Gold Ingot": "1",
+    "price": 0.5619001364
+  },
+  "Prismarine": {
+    "Prismarine": "1",
+    "price": 0.6446875
+  },
+  "Prismarine Brick Slab": {
+    "Prismarine Bricks": "0.5",
+    "price": 0.16147727275
+  },
+  "Prismarine Brick Stairs": {
+    "Prismarine Bricks": "1",
+    "price": 0.3229545455
+  },
+  "Prismarine Bricks": {
+    "Prismarine Bricks": "1",
+    "price": 0.3229545455
+  },
+  "Prismarine Slab": {
+    "Prismarine": "0.5",
+    "price": 0.32234375
+  },
+  "Prismarine Stairs": {
+    "Prismarine": "1",
+    "price": 0.6446875
+  },
+  "Prismarine Wall": {
+    "Prismarine": "1",
+    "price": 0.6446875
+  },
+  "Pumpkin": {
+    "Pumpkin": "1",
+    "price": 0.3919230769
+  },
+  "Pumpkin Stem": {
+    "Pumpkin": "0.25",
+    "price": 0.097980769225
+  },
+  "Purple Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Purple Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Purple Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Purple Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Purple Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Purple Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Purple Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Purple Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Purple Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Purple Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Purple Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Purple Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Purpur Block Block": {
+    "Purpur Block": "1",
+    "price": 0.7206730769
+  },
+  "Purpur Block Pillar": {
+    "Purpur Block": "1",
+    "price": 0.7206730769
+  },
+  "Purpur Block Slab": {
+    "Purpur Block": "0.5",
+    "price": 0.36033653845
+  },
+  "Purpur Block Stairs": {
+    "Purpur Block": "1",
+    "price": 0.7206730769
+  },
+  "Quartz Bricks": {
+    "Quartz Block": "1",
+    "price": 1.893181818
+  },
+  "Quartz Pillar": {
+    "Quartz Block": "1",
+    "price": 1.893181818
+  },
+  "Quartz Slab": {
+    "Quartz Block": "0.5",
+    "price": 0.946590909
+  },
+  "Quartz Stairs": {
+    "Quartz Block": "1",
+    "price": 1.893181818
+  },
+  "Rail": {
+    "Iron Ingot": "0.375",
+    "price": 0.3336057474375
+  },
+  "Red Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Red Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Red Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Red Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Red Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Red Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Red Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Red Mushroom": {
+    "Red Mushroom": "1",
+    "price": 1.274
+  },
+  "Red Mushroom Block": {
+    "Red Mushroom": "4",
+    "price": 5.096
+  },
+  "Red Nether Brick Slab": {
+    "Nether Bricks": "0.25",
+    "Nether Wart": "1",
+    "price": 0.8312708333
+  },
+  "Red Nether Brick Stairs": {
+    "Nether Bricks": "0.5",
+    "Nether Wart": "2",
+    "price": 1.6625416666
+  },
+  "Red Nether Brick Wall": {
+    "Nether Bricks": "0.5",
+    "Nether Wart": "2",
+    "price": 1.6625416666
+  },
+  "Red Nether Bricks": {
+    "Nether Bricks": "0.5",
+    "Nether Wart": "2",
+    "price": 1.6625416666
+  },
+  "Red Sand": {
+    "Red Sand": "1",
+    "price": 0.3108522727
+  },
+  "Red Sandstone": {
+    "Red Sandstone": "1",
+    "price": 1
+  },
+  "Red Sandstone Slab": {
+    "Red Sandstone": "0.5",
+    "price": 0.5
+  },
+  "Red Sandstone Stairs": {
+    "Red Sandstone": "1",
+    "price": 1
+  },
+  "Red Sandstone Wall": {
+    "Red Sandstone": "1",
+    "price": 1
+  },
+  "Red Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Red Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Red Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Red Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Red Tulip": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Red Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Redstone Comparator": {
+    "Stone": "3",
+    "Quartz Block": "0.25",
+    "price": 0.9895454544
+  },
+  "Redstone Lamp": {
+    "Glowstone": "1",
+    "Redstone": "4",
+    "price": 3.1991045434
+  },
+  "Redstone Ore": {
+    "Stone": "1",
+    "Redstone": "8",
+    "price": 3.6897419621
+  },
+  "Redstone Repeater": {
+    "Redstone": "3",
+    "Stone": "3",
+    "price": 1.8353719857000002
+  },
+  "Redstone Torch": {
+    "Any Log": "0.125",
+    "Redstone": "1",
+    "price": 0.504816719025
+  },
+  "Redstone Wire": {
+    "Redstone": "1",
+    "price": 0.4397073286
+  },
+  "Respawn Anchor": {
+    "Crying Obsidian": "6",
+    "Glowstone": "3",
+    "price": 34.320825687
+  },
+  "Resin Bricks": {
+    "Resin Bricks": "1",
+    "price": 10
+  },
+  "Resin Brick Slab": {
+    "Resin Block": "0.5",
+    "price": 5
+  },
+  "Resin Brick Stairs": {
+    "Resin Block": "1",
+    "price": 10
+  },
+  "Resin Brick Wall": {
+    "Resin Block": "1",
+    "price": 10
+  },
+  "Rooted Dirt": {
+    "Rooted Dirt": "1",
+    "price": 1
+  },
+  "Rose Bush": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Sand": {
+    "Sand": "1",
+    "price": 0.2155034722
+  },
+  "Sandstone": {
+    "Sandstone": "1",
+    "price": 0.459375
+  },
+  "Sandstone Slab": {
+    "Sandstone": "0.5",
+    "price": 0.2296875
+  },
+  "Sandstone Stairs": {
+    "Sandstone": "1",
+    "price": 0.459375
+  },
+  "Sandstone Wall": {
+    "Sandstone": "1",
+    "price": 0.459375
+  },
+  "Scaffolding": {
+    "Scaffolding": "1",
+    "price": 6.958
+  },
+  "Sculk": {
+    "Sculk": "1",
+    "price": 3.92
+  },
+  "Sculk Catalyst": {
+    "Sculk Catalyst": "1",
+    "price": 10
+  },
+  "Sculk Sensor": {
+    "Sculk Sensor": "1",
+    "price": 1
+  },
+  "Sculk Shrieker": {
+    "Sculk Shrieker": "1",
+    "price": 10
+  },
+  "Sculk Vein": {
+    "Sculk Vein": "1",
+    "price": 1
+  },
+  "Sea Lantern": {
+    "Sea Lantern": "1",
+    "price": 4.794926829
+  },
+  "Sea Pickle": {
+    "Sea Pickle": "1",
+    "price": 1
+  },
+  "Shroomlight": {
+    "Shroomlight": "1",
+    "price": 3.911534884
+  },
+  "Shulker Box": {
+    "Shulker Box": "1",
+    "price": 19.6432618
+  },
+  "Slime Block": {
+    "Slime Ball": "4",
+    "price": 31.049379312
+  },
+  "Small Amethyst Bud": {
+    "Amethyst Cluster": "1",
+    "price": 2
+  },
+  "Small Dripleaf": {
+    "Big Dripleaf": "1",
+    "price": 8.428
+  },
+  "Smithing Table": {
+    "Any Log": "1",
+    "Iron Ingot": "2",
+    "price": 2.3001057763999997
+  },
+  "Smoker": {
+    "Smoker": "1",
+    "price": 2.744
+  },
+  "Smooth Basalt": {
+    "Basalt": "1",
+    "Coal": "0.125",
+    "price": 3.134250544975
+  },
+  "Smooth Quartz Block": {
+    "Quartz Block": "1",
+    "price": 1.893181818
+  },
+  "Smooth Quartz Slab": {
+    "Quartz Block": "0.5",
+    "price": 0.946590909
+  },
+  "Smooth Quartz Stairs": {
+    "Quartz Block": "1",
+    "price": 1.893181818
+  },
+  "Smooth Red Sandstone": {
+    "Red Sandstone": "1",
+    "Coal": "0.125",
+    "price": 1.054379220975
+  },
+  "Smooth Red Sandstone Slab": {
+    "Red Sandstone": "0.5",
+    "Coal": "0.125",
+    "price": 0.554379220975
+  },
+  "Smooth Red Sandstone Stairs": {
+    "Red Sandstone": "1",
+    "Coal": "0.125",
+    "price": 1.054379220975
+  },
+  "Smooth Sandstone": {
+    "Sandstone": "1",
+    "Coal": "0.125",
+    "price": 0.513754220975
+  },
+  "Smooth Sandstone Slab": {
+    "Sandstone": "0.5",
+    "Coal": "0.125",
+    "price": 0.28406672097499996
+  },
+  "Smooth Sandstone Stairs": {
+    "Sandstone": "1",
+    "Coal": "0.125",
+    "price": 0.513754220975
+  },
+  "Smooth Stone": {
+    "Smooth Stone": "1",
+    "price": 0.2615213816
+  },
+  "Smooth Stone Slab": {
+    "Smooth Stone": "0.5",
+    "price": 0.1307606908
+  },
+  "Sniffer Egg": {
+    "Sniffer Egg": "1",
+    "price": 5
+  },
+  "Snow": {
+    "Snow Block": "0.125",
+    "price": 0.125
+  },
+  "Snow Block": {
+    "Snow Block": "1",
+    "price": 1
+  },
+  "Soul Campfire": {
+    "Soul Campfire": "1",
+    "price": 10
+  },
+  "Soul Lantern": {
+    "Soul Lantern": "1",
+    "price": 10
+  },
+  "Soul Sand": {
+    "Soul Sand": "1",
+    "price": 0.3766615385
+  },
+  "Soul Soil": {
+    "Soul Soil": "1",
+    "price": 10
+  },
+  "Soul Torch": {
+    "Soul Torch": "1",
+    "price": 10
+  },
+  "Sponge": {
+    "Sponge": "1",
+    "price": 5.238313953
+  },
+  "Spore Blossom": {
+    "Spore Blossom": "1",
+    "price": 20
+  },
+  "Spruce Button": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Spruce Door": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Spruce Fence": {
+    "Any Log": "0.42",
+    "price": 0.21876755182799998
+  },
+  "Spruce Fence Gate": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Spruce Hanging Sign": {
+    "Any Log": "1",
+    "Iron Ingot": "0.4",
+    "price": 0.876721254
+  },
+  "Spruce Leaves": {
+    "Any Leaves": "1",
+    "price": 0.2171385017
+  },
+  "Spruce Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Spruce Planks": {
+    "Any Log": "0.25",
+    "price": 0.13021878085
+  },
+  "Spruce Pressure Plate": {
+    "Any Log": "0.5",
+    "price": 0.2604375617
+  },
+  "Spruce Sapling": {
+    "Any Sapling": "1",
+    "price": 1.96
+  },
+  "Spruce Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Spruce Slab": {
+    "Any Log": "0.125",
+    "price": 0.065109390425
+  },
+  "Spruce Stairs": {
+    "Any Log": "0.375",
+    "price": 0.195328171275
+  },
+  "Spruce Trapdoor": {
+    "Any Log": "0.75",
+    "price": 0.39065634255
+  },
+  "Spruce Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Sticky Piston": {
+    "Sticky Piston": "1",
+    "price": 2
+  },
+  "Stone": {
+    "Stone": "1",
+    "price": 0.1720833333
+  },
+  "Stone Brick Slab": {
+    "Stone": "0.5",
+    "price": 0.08604166665
+  },
+  "Stone Brick Stairs": {
+    "Stone": "1",
+    "price": 0.1720833333
+  },
+  "Stone Brick Wall": {
+    "Stone": "1",
+    "price": 0.1720833333
+  },
+  "Stone Bricks": {
+    "Stone": "1",
+    "price": 0.1720833333
+  },
+  "Stone Button": {
+    "Stone": "0.25",
+    "price": 0.043020833325
+  },
+  "Stone Pressure Plate": {
+    "Stone": "2",
+    "price": 0.3441666666
+  },
+  "Stone Slab": {
+    "Stone": "0.5",
+    "price": 0.08604166665
+  },
+  "Stone Stairs": {
+    "Stone": "1",
+    "price": 0.1720833333
+  },
+  "Stonecutter": {
+    "Stone": "3",
+    "Iron Ingot": "1",
+    "price": 1.4058653263999998
+  },
+  "Stripped Acacia Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Acacia Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Birch Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Birch Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Cherry Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Cherry Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Crimson Hyphae": {
+    "Crimson Stem": "1.33",
+    "price": 1.003099999979
+  },
+  "Stripped Crimson Stem": {
+    "Crimson Stem": "1",
+    "price": 0.7542105263
+  },
+  "Stripped Dark Oak Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Dark Oak Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Jungle Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Jungle Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Mangrove Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Mangrove Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Oak Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Oak Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Pale Oak Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Pale Oak Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Spruce Log": {
+    "Any Log": "1",
+    "price": 0.5208751234
+  },
+  "Stripped Spruce Wood": {
+    "Any Log": "1.33",
+    "price": 0.692763914122
+  },
+  "Stripped Warped Hyphae": {
+    "Warped Stem": "1.33",
+    "price": 2.77102510027
+  },
+  "Stripped Warped Stem": {
+    "Warped Stem": "1",
+    "price": 2.083477519
+  },
+  "Sugar Cane": {
+    "Sugar Cane": "1",
+    "price": 0.2801925125
+  },
+  "Sunflower": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Suspicious Gravel": {
+    "Gravel": "1",
+    "price": 0.1876165877
+  },
+  "Suspicious Sand": {
+    "Sand": "1",
+    "price": 0.2155034722
+  },
+  "Sweet Berry Bush": {
+    "Sweet Berries": "1",
+    "price": 0.26453125
+  },
+  "Target": {
+    "Hay Block": "1",
+    "Redstone": "4",
+    "price": 3.7588293144
+  },
+  "Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Tinted Glass": {
+    "Tinted Glass": "1",
+    "price": 0.459375
+  },
+  "TNT": {
+    "TNT": "1",
+    "price": 1.904
+  },
+  "Torch": {
+    "Torch": "1",
+    "price": 0.196
+  },
+  "Torchflower": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "Trapped Chest": {
+    "Any Log": "2.25",
+    "Iron Ingot": "1",
+    "price": 2.06158435415
+  },
+  "Tripwire": {
+    "String": "1",
+    "price": 1.803275862
+  },
+  "Tripwire Hook": {
+    "Tripwire Hook": "1",
+    "price": 1
+  },
+  "Tube Coral": {
+    "Any Coral": "1",
+    "price": 2
+  },
+  "Tube Coral Block": {
+    "Any Coral Block": "1",
+    "price": 2
+  },
+  "Tube Coral Fan": {
+    "Any Coral Fan": "1",
+    "price": 2
+  },
+  "Tuff": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Tuff Brick Slab": {
+    "Tuff": "0.5",
+    "price": 0.13100694445
+  },
+  "Tuff Brick Stairs": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Tuff Brick Wall": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Tuff Bricks": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Tuff Slab": {
+    "Tuff": "0.5",
+    "price": 0.13100694445
+  },
+  "Tuff Stairs": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Tuff Wall": {
+    "Tuff": "1",
+    "price": 0.2620138889
+  },
+  "Turtle Egg": {
+    "Turtle Egg": "1",
+    "price": 5
+  },
+  "Twisting Vines": {
+    "Twisting Vines": "1",
+    "price": 1
+  },
+  "Verdant Froglight": {
+    "Any Froglight": "1",
+    "price": 3.96948867
+  },
+  "Vines": {
+    "Vine": "1",
+    "price": 0.196
+  },
+  "Warped Button": {
+    "Warped Stem": "0.25",
+    "price": 0.52086937975
+  },
+  "Warped Door": {
+    "Warped Stem": "0.5",
+    "price": 1.0417387595
+  },
+  "Warped Fence": {
+    "Warped Stem": "0.42",
+    "price": 0.87506055798
+  },
+  "Warped Fence Gate": {
+    "Warped Stem": "1",
+    "price": 2.083477519
+  },
+  "Warped Fungus": {
+    "Warped Fungus": "1",
+    "price": 2
+  },
+  "Warped Hanging Sign": {
+    "Warped Stem": "1",
+    "Iron Ingot": "0.4",
+    "price": 2.4393236496000004
+  },
+  "Warped Hyphae": {
+    "Warped Stem": "1.33",
+    "price": 2.77102510027
+  },
+  "Warped Nylium": {
+    "Warped Nylium": "1",
+    "price": 2
+  },
+  "Warped Planks": {
+    "Warped Stem": "0.25",
+    "price": 0.52086937975
+  },
+  "Warped Pressure Plate": {
+    "Warped Stem": "0.5",
+    "price": 1.0417387595
+  },
+  "Warped Roots": {
+    "Warped Roots": "1",
+    "price": 1
+  },
+  "Warped Sign": {
+    "Any Log": "0.54",
+    "price": 0.281272566636
+  },
+  "Warped Slab": {
+    "Warped Stem": "0.125",
+    "price": 0.260434689875
+  },
+  "Warped Stairs": {
+    "Warped Stem": "0.375",
+    "price": 0.781304069625
+  },
+  "Warped Stem": {
+    "Warped Stem": "1",
+    "price": 2.083477519
+  },
+  "Warped Trapdoor": {
+    "Warped Stem": "0.75",
+    "price": 1.56260813925
+  },
+  "Warped Wart Block": {
+    "Warped Wart Block": "1",
+    "price": 1
+  },
+  "Water": {
+    "Water bucket": "2",
+    "price": 10.5845
+  },
+  "Waxed Block of Copper": {
+    "Copper Ingot": "9",
+    "Honeycomb": "1",
+    "price": 6.4704967541
+  },
+  "Waxed Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Copper Bulb": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Copper Door": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Copper Grate": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "Honeycomb": "1",
+    "price": 2.5987129703
+  },
+  "Waxed Cut Copper": {
+    "Copper Ingot": "9",
+    "Honeycomb": "1",
+    "price": 6.4704967541
+  },
+  "Waxed Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "Honeycomb": "1",
+    "price": 1.3887805378625
+  },
+  "Waxed Cut Copper Stairs": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Exposed Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Exposed Copper": {
+    "Copper Ingot": "9",
+    "Honeycomb": "1",
+    "price": 6.4704967541
+  },
+  "Waxed Exposed Copper Bulb": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Exposed Copper Door": {
+    "Copper Ingot": "2",
+    "Honeycomb": "1",
+    "price": 1.9534156729999999
+  },
+  "Waxed Exposed Copper Grate": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Exposed Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "Honeycomb": "1",
+    "price": 2.5987129703
+  },
+  "Waxed Exposed Cut Copper": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Exposed Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "Honeycomb": "1",
+    "price": 1.3887805378625
+  },
+  "Waxed Exposed Cut Copper Stairs": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Oxidized Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Oxidized Copper": {
+    "Copper Ingot": "9",
+    "Honeycomb": "1",
+    "price": 6.4704967541
+  },
+  "Waxed Oxidized Copper Bulb": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Oxidized Copper Door": {
+    "Copper Ingot": "2",
+    "Honeycomb": "1",
+    "price": 1.9534156729999999
+  },
+  "Waxed Oxidized Copper Grate": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Oxidized Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "Honeycomb": "1",
+    "price": 2.5987129703
+  },
+  "Waxed Oxidized Cut Copper": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Oxidized Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "Honeycomb": "1",
+    "price": 1.3887805378625
+  },
+  "Waxed Oxidized Cut Copper Stairs": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Weathered Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Weathered Copper": {
+    "Copper Ingot": "9",
+    "Honeycomb": "1",
+    "price": 6.4704967541
+  },
+  "Waxed Weathered Copper Bulb": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Weathered Copper Door": {
+    "Copper Ingot": "2",
+    "Honeycomb": "1",
+    "price": 1.9534156729999999
+  },
+  "Waxed Weathered Copper Grate": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Weathered Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "Honeycomb": "1",
+    "price": 2.5987129703
+  },
+  "Waxed Weathered Cut Copper": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Waxed Weathered Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "Honeycomb": "1",
+    "price": 1.3887805378625
+  },
+  "Waxed Weathered Cut Copper Stairs": {
+    "Copper Ingot": "2.25",
+    "Honeycomb": "1",
+    "price": 2.114739997325
+  },
+  "Weathered Chiseled Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Weathered Copper": {
+    "Copper Ingot": "9",
+    "price": 5.8076756757
+  },
+  "Weathered Copper Bulb": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Weathered Copper Door": {
+    "Copper Ingot": "2",
+    "price": 1.2905945946
+  },
+  "Weathered Copper Grate": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Weathered Copper Trapdoor": {
+    "Copper Ingot": "3",
+    "price": 1.9358918918999999
+  },
+  "Weathered Cut Copper": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Weathered Cut Copper Slab": {
+    "Copper Ingot": "1.125",
+    "price": 0.7259594594625
+  },
+  "Weathered Cut Copper Stairs": {
+    "Copper Ingot": "2.25",
+    "price": 1.451918918925
+  },
+  "Weeping Vines": {
+    "Weeping Vines": "1",
+    "price": 1
+  },
+  "Wet Sponge": {
+    "Sponge": "1",
+    "price": 5.238313953
+  },
+  "Wheat Crops": {
+    "Wheat Seeds": "1",
+    "price": 0.064925
+  },
+  "White Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "White Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "White Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "White Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "White Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "White Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "White Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "White Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "White Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "White Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "White Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "White Tulip": {
+    "Any Flower": "1",
+    "price": 1
+  },
+  "White Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  },
+  "Wither Rose": {
+    "Wither Rose": "1",
+    "price": 1.642926829
+  },
+  "Yellow Banner": {
+    "Any Wool": "6",
+    "Any Log": "0.125",
+    "price": 17.047001700425
+  },
+  "Yellow Bed": {
+    "Any Wool": "3",
+    "Any Log": "0.75",
+    "price": 8.88160249755
+  },
+  "Yellow Candle": {
+    "Candle": "1",
+    "Any Dye": "1",
+    "price": 4.175
+  },
+  "Yellow Carpet": {
+    "Any Wool": "0.66",
+    "price": 1.8680081541000002
+  },
+  "Yellow Concrete": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Yellow Concrete Powder": {
+    "Any Concrete/Powder": "1",
+    "price": 0.4425612745
+  },
+  "Yellow Glazed Terracotta": {
+    "Any Glazed Terracotta": "1",
+    "price": 0.8
+  },
+  "Yellow Shulker Box": {
+    "Shulker Box": "1",
+    "Any Dye": "1",
+    "price": 20.1432618
+  },
+  "Yellow Stained Glass": {
+    "Any Stained Glass": "1",
+    "price": 0.8
+  },
+  "Yellow Stained Glass Pane": {
+    "Any Stained Glass": "0.375",
+    "price": 0.30000000000000004
+  },
+  "Yellow Terracotta": {
+    "Any Terracotta": "1",
+    "price": 0.8
+  },
+  "Yellow Wool": {
+    "Any Wool": "1",
+    "price": 2.830315385
+  }
+}
