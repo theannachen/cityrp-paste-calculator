@@ -1,57 +1,101 @@
 const uuid = "a3dc421f-865a-4215-8aa7-be392e357b3f"
 const apiKey = process.env.API_KEY;
 const url = "https://api.cityrp.org/citycorp"
-const fs = require('fs');
+const fs = require("fs");
 
-run()
+const headers = {
+    Authorization: `Basic ${Buffer.from(uuid + ":" + apiKey).toString("base64")}`,
+};
 
-async function run(){
-    const oldJSON = require('./AllCommodityItems.json');
-    const oldLength = oldJSON.length
-    console.log(oldJSON.length)
+const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
 
-    let res = await fetch(`${url}/commodity/list`, {
-        headers:{
-            Authorization: `Basic ${btoa(uuid + ":" + apiKey)}`
+async function fetchWithRetry(url, retries = 3, delay = 2000) {
+    for (let attempt = 1; attempt <= retries; attempt++) {
+        try {
+            const res = await fetch(url, { headers });
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return await res.json();
+        } catch (err) {
+            if (attempt === retries) throw err;
+            await sleep(delay);
         }
-    })
-    let initialList = await res.json()
-    let allItems = []
-    if(initialList.totalCommodities !== oldLength){
-        for(let i = 1; i <= initialList.totalPages; ++i){
-            res = await fetch(`${url}/commodity/list?page=${i}`, {
-                headers:{
-                    Authorization: `Basic ${btoa(uuid + ":" + apiKey)}`
-                }
-            })
+    }
+}
 
-            let pageData = await res.json()
-            for(let item of pageData.commodities){
-                allItems.push(item.name)
-            }
+async function getAllCommodities() {
+    const oldJSON = require("./AllCommodityItems.json");
+    const oldLength = oldJSON.length;
+
+    const firstPage = await fetchWithRetry(`${url}/commodity/list`);
+    let allItems = [];
+
+    if (firstPage.totalCommodities !== oldLength) {
+        for (let i = 1; i <= firstPage.totalPages; ++i) {
+            const pageData = await fetchWithRetry(`${url}/commodity/list?page=${i}`);
+            allItems.push(...pageData.commodities.map((item) => item.name));
         }
 
         fs.writeFileSync("AllCommodityItems.json", JSON.stringify(allItems, null, 2));
-        console.log("More items added in commodity list. Regathering.")
-    }
-    else{
-        allItems = oldJSON
+        console.log(`Updated commodity list with ${allItems.length} items.`);
+    } else {
+        allItems = oldJSON;
+        console.log(`Loaded ${allItems.length} commodities from cache.`);
     }
 
-    let count = 0
-    fs.appendFileSync("AllPrices.json", "[");
-    for(let item of allItems){
-        res = await fetch(`${url}/commodity?item_name=${item}&search_time=MONTH`, {
-            headers:{
-                Authorization: `Basic ${btoa(uuid + ":" + apiKey)}`
-            }
-        })
-        fs.appendFileSync("AllPrices.json", JSON.stringify(await res.json(), null, 2) + ",\n");
-        if(count % 10 === 0){
-            console.log("Items counted: " + count)
-        }
-        count++;
-        await new Promise(r => setTimeout(r, 6000));
-    }
-    fs.appendFileSync("AllPrices.json", "]");
+    return allItems;
 }
+
+function formatTime(ms) {
+    const sec = Math.floor((ms / 1000) % 60);
+    const min = Math.floor((ms / 1000 / 60) % 60);
+    return `${min}m ${sec}s`;
+}
+
+async function fetchCommodityPrices(items) {
+    const batchSize = 2;
+    const total = items.length;
+    const results = [];
+
+    const startTime = Date.now();
+
+    for (let i = 0; i < total; i += batchSize) {
+        const batch = items.slice(i, i + batchSize);
+
+        const responses = await Promise.all(
+            batch.map((item) =>
+                fetchWithRetry(`${url}/commodity?item_name=${encodeURIComponent(item)}&search_time=MONTH`)
+                    .then((json) => ({ item, json }))
+                    .catch((err) => ({ item, error: err.message }))
+            )
+        );
+
+        for (const res of responses) {
+            if (res.error) {
+                console.warn(`Failed: ${res.item}: ${res.error}`);
+            } else {
+                results.push(res.json);
+            }
+        }
+
+        const percent = ((i + batchSize) / total * 100).toFixed(2);
+        const elapsed = Date.now() - startTime;
+        console.log(`Progress [${i + batchSize}/${total}] ${percent}%`);
+
+        if (i + batchSize < total) {
+            await sleep(12_000); // 2 requests per 12 seconds = 10 per minute
+        }
+    }
+
+    fs.writeFileSync("AllPrices.json", JSON.stringify(results, null, 2));
+    console.log(`Saved AllPrices.json with ${results.length} entries.`);
+}
+
+(async () => {
+    try {
+        const items = await getAllCommodities();
+        await fetchCommodityPrices(items);
+        console.log("Done.");
+    } catch (err) {
+        console.error("Fatal error:", err);
+    }
+})();
