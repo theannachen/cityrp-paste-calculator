@@ -3851,5 +3851,29 @@
   "Yellow Wool": {
     "Any Wool": "1",
     "price": 2.830315385
+  },
+  "Fern": {
+    "Fern": "1",
+    "price": 2.830315385
+  },
+  "Large Fern": {
+    "Fern": "2",
+    "price": 2.830315385
+  },
+  "Nether Sprouts": {
+    "Nether Sprouts": "1",
+    "price": 2.830315385
+  },
+  "Resin Clump": {
+    "Block of Resin": "0.111",
+    "price": 2.830315385
+  },
+  "Short Grass": {
+    "Grass": "1",
+    "price": 2.830315385
+  },
+  "Tall Grass": {
+    "Grass": "2",
+    "price": 2.830315385
   }
 }
