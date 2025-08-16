@@ -24,6 +24,8 @@ Run the command `node Distribution-to-Category.js` from the root directory.
 Output:
 The resulting distribution will appear in the console.
 
+If there are any blocks that could not be found, it will print it before the distribution. 
+
 ## price.js 
 Requires: Your own key to replace it on line 2 along with your UUID 
 
