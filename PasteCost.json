@@ -627,6 +627,14 @@
     "Glow Berries": "1",
     "price": 0.49
   },
+  "Glow Berries": {
+    "Glow Berries": "1",
+    "price": 0.49
+  },
+  "Water Bucket": {
+    "Water Bucket": "1",
+    "price": 0.49
+  },
   "Chain": {
     "Iron Ingot": "1.22",
     "price": 1.08533069833
@@ -806,7 +814,7 @@
     "String": "4",
     "price": 7.213103448
   },
-  "Cocoa": {
+  "Cocoa Beans": {
     "Cocoa Beans": "1",
     "price": 0.3675365854
   },
@@ -2052,7 +2060,7 @@
     "Amethyst Cluster": "1",
     "price": 2
   },
-  "Melon": {
+  "Melon Seeds": {
     "Melon Slice": "1",
     "price": 0.1225
   },
@@ -2753,19 +2761,19 @@
     "Any Wool": "1",
     "price": 2.830315385
   },
-  "Purpur Block Block": {
+  "Purpur Block": {
     "Purpur Block": "1",
     "price": 0.7206730769
   },
-  "Purpur Block Pillar": {
+  "Purpur Pillar": {
     "Purpur Block": "1",
     "price": 0.7206730769
   },
-  "Purpur Block Slab": {
+  "Purpur Slab": {
     "Purpur Block": "0.5",
     "price": 0.36033653845
   },
-  "Purpur Block Stairs": {
+  "Purpur Stairs": {
     "Purpur Block": "1",
     "price": 0.7206730769
   },
@@ -3346,6 +3354,10 @@
     "Redstone": "4",
     "price": 3.7588293144
   },
+  "Redstone Dust": {
+    "Redstone": "1",
+    "price": 3.7588293144
+  },
   "Terracotta": {
     "Any Terracotta": "1",
     "price": 0.8
@@ -3372,6 +3384,10 @@
     "price": 2.06158435415
   },
   "Tripwire": {
+    "String": "1",
+    "price": 1.803275862
+  },
+  "String": {
     "String": "1",
     "price": 1.803275862
   },
