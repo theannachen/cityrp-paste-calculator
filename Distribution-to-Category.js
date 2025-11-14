@@ -1,7 +1,8 @@
 const fs = require("fs");
 
-const dist = require("./music.json")
+const dist = require("./mats.json")
 const conversion = require("./PasteCost.json")
+const costs = require("./CategoryPricing.json")
 
 let finalDist = {}
 
@@ -36,4 +37,10 @@ for(let block of Object.keys(dist)){
         }
     }
 }
-console.log(finalDist)
+
+for(let item of Object.keys(finalDist)){
+    finalDist[item]= finalDist[item]+ ": " +finalDist[item] * costs[item] 
+}
+
+console.log(finalDist);
+
