@@ -98,7 +98,7 @@ async function fetchPricesToday(items) {
       if (!r.error) results.push(r.json);
       else console.warn(`Failed: ${r.item} → ${r.error}`);
     }
-
+    console.log(`${i} of ${items.length} processed`)
     if (i + batchSize < items.length) await sleep(12_000);
   }
 
