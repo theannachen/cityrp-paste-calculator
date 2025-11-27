@@ -2,8 +2,8 @@ name: Fetch Commodity Data
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # daily at 6 AM UTC
-  workflow_dispatch:       # manual trigger
+    - cron: "0 6 * * *"
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -16,14 +16,10 @@ jobs:
         with:
           node-version: 20
 
-      - run: npm install
+      - name: Run fetch script
+        run: node fetch.js "${{ secrets.API_KEY }}"
 
-      - name: Run fetch
-        run: node fetch.js
-        env:
-          API_KEY: ${{ secrets.API_KEY }}
-
-      - name: Commit & Push updated data
+      - name: Commit & push updated data
         run: |
           git config user.email "github-actions@github.com"
           git config user.name "GitHub Actions"

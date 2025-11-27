@@ -1,15 +1,15 @@
 #!/usr/bin/env node
 
-require("dotenv").config();
 const fs = require("fs");
 const path = require("path");
 
 const uuid = "a3dc421f-865a-4215-8aa7-be392e357b3f";
-const apiKey = process.env.API_KEY;
+const apiKey = process.argv[2]; 
 const url = "https://api.cityrp.org/citycorp";
 
 if (!apiKey) {
-  console.error("Missing API_KEY env variable");
+  console.error("Missing API key argument");
+  console.error("Usage: node fetch.js <API_KEY>");
   process.exit(1);
 }
 
@@ -66,9 +66,7 @@ function toCSV(data) {
   const csvRows = [headers.join(",")];
 
   for (const row of data) {
-    csvRows.push(
-      headers.map((h) => JSON.stringify(row[h] ?? "")).join(",")
-    );
+    csvRows.push(headers.map((h) => JSON.stringify(row[h] ?? "")).join(","));
   }
   return csvRows.join("\n");
 }
@@ -79,10 +77,7 @@ async function fetchPricesToday(items) {
   const date = new Date().toISOString().slice(0, 10);
   const dir = path.join("data", date);
 
-  // Create daily folder
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true });
-  }
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 
   console.log(`Fetching price data for ${date}`);
 
@@ -107,25 +102,20 @@ async function fetchPricesToday(items) {
     if (i + batchSize < items.length) await sleep(12_000);
   }
 
-  // Save JSON snapshot
-  const jsonPath = path.join(dir, "snapshot.json");
-  fs.writeFileSync(jsonPath, JSON.stringify(results, null, 2));
-  console.log(`Saved JSON → ${jsonPath}`);
-
-  // Save CSV snapshot
-  const flat = results.map((r) => ({
-    item_name: r.item_name,
-    average_price: r.average_price,
-    lowest_price: r.lowest_price,
-    highest_price: r.highest_price,
-    num_sales: r.num_sales,
-    volume: r.volume,
-    timestamp: r.timestamp,
-  }));
-
-  const csvPath = path.join(dir, "snapshot.csv");
-  fs.writeFileSync(csvPath, toCSV(flat));
-  console.log(`Saved CSV → ${csvPath}`);
+  fs.writeFileSync(path.join(dir, "snapshot.json"), JSON.stringify(results, null, 2));
+  const csv = toCSV(
+    results.map((r) => ({
+      item_name: r.item_name,
+      average_price: r.average_price,
+      lowest_price: r.lowest_price,
+      highest_price: r.highest_price,
+      num_sales: r.num_sales,
+      volume: r.volume,
+      timestamp: r.timestamp,
+    }))
+  );
+  fs.writeFileSync(path.join(dir, "snapshot.csv"), csv);
+  console.log(`✔ Saved snapshots → ${dir}`);
 }
 
 (async () => {
