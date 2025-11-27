@@ -34,7 +34,7 @@ async function fetchWithRetry(url, retries = 5, delay = 2500) {
 }
 
 async function getAllCommodities() {
-  const commoditiesFile = path.join("data", "commodities.json");
+  const commoditiesFile = path.join("data", "AllCommodityItems.json");
   let saved = [];
 
   if (fs.existsSync(commoditiesFile)) {
