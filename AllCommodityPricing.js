@@ -105,13 +105,18 @@ async function fetchPricesToday(items) {
   fs.writeFileSync(path.join(dir, "snapshot.json"), JSON.stringify(results, null, 2));
   const csv = toCSV(
     results.map((r) => ({
-      item_name: r.item_name,
-      average_price: r.average_price,
-      lowest_price: r.lowest_price,
-      highest_price: r.highest_price,
-      num_sales: r.num_sales,
-      volume: r.volume,
-      timestamp: r.timestamp,
+      name: r.name,
+      highBuy: r.highBuy,
+      lowBuy: r.lowBuy,
+      highSell: r.highSell,
+      lowSell: r.lowSell,
+      buyChange: r.buyChange,
+      sellChange: r.sellChange,
+      volumeSold: r.volumeSold,
+      volumeBought: r.volumeBought,
+      totalRecordedData: r.totalRecordedData,
+      currentBuyPrice: r.currentBuyPrice,
+      currentSellPrice: r.currentSellPrice,
     }))
   );
   fs.writeFileSync(path.join(dir, "snapshot.csv"), csv);
